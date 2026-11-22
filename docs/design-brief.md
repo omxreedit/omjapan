@@ -39,7 +39,7 @@
   400/500/600. Japanese glyphs fall back to system CJK font.
 - **Radius:** 12 / 20 / 32 / pill.
 - **Elevation:** surface lightness steps + one soft shadow; no glass in lists.
-- **Imagery:** user-supplied logo (placeholder until supplied), creator avatars
+- **Imagery:** official user-supplied logo at `branding/logo.jpg`, creator avatars
   only when verified; otherwise monogram tiles. No fake embedded video.
 - **Density:** standard (16px gutters, 24px section gaps).
 
@@ -89,7 +89,7 @@
 ## 11. Risks
 | Risk | Mitigation |
 | --- | --- |
-| Logo never supplied | Clearly-marked placeholder; swap one asset at any time |
+| Official logo asset changes | Single source file `branding/logo.jpg`; rebuild regenerates all brand surfaces |
 | Official sites block fetch | Native RSS fetch with cache; show offline cached + source link |
 | TTS Japanese unavailable | Graceful fallback: text-only listening drill |
 | WebView file:// fetch restrictions | Load JSON via native bridge `readAsset()` instead of XHR |

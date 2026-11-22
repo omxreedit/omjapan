@@ -287,6 +287,19 @@ test('quizzes record real scores, mistakes and analytics', () => {
   assert.equal(OM.store.all('quiz').length, 2);
 });
 
+test('official logo is the only brand asset referenced by the UI', () => {
+  const readWeb = name => fs.readFileSync(path.join(WEB, name), 'utf8');
+  const surfaces = ['index.html', 'js/app.js', 'js/community.js'];
+  surfaces.forEach(name => {
+    const html = readWeb(name);
+    assert.ok(html.includes('img/logo.jpg'), name + ' must use the official logo');
+    assert.doesNotMatch(html, /logo_placeholder|placeholder logo/i, name + ' still mentions a placeholder');
+  });
+  const source = fs.readFileSync(path.join(ROOT, 'branding', 'logo.jpg'));
+  assert.deepEqual(Array.from(source.slice(0, 2)), [0xff, 0xd8], 'branding/logo.jpg must be JPEG');
+  assert.match(fs.readFileSync(path.join(ROOT, 'android', 'build.sh'), 'utf8'), /tools\/make_logo\.py/);
+});
+
 test('bundled content and research data are internally consistent', () => {
   const read = name => JSON.parse(fs.readFileSync(path.join(ROOT, 'data', name + '.json'), 'utf8'));
   const counts = {

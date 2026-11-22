@@ -2,11 +2,14 @@
 android/build/
 android/assets/
 android/libs/android.jar
-android/res/drawable/ic_launcher.png
+android/res/drawable/ic_launcher.jpg
 
 # Signed builds and checksums (attach APKs to GitHub Releases instead)
 release/*.apk
 release/*.sha256
+
+# Generated branding notice
+tools/BRAND_NOTICE.txt
 
 # Python and Node caches
 __pycache__/

@@ -129,10 +129,9 @@
     var steps = [
       function () {
         return '<div class="onboard-step" style="text-align:center">' +
-          '<div class="splash-logo" style="width:120px;height:120px;margin:0 auto 28px"><img src="img/logo_placeholder.png" alt="Placeholder logo">' +
+          '<div class="splash-logo" style="width:120px;height:120px;margin:0 auto 28px"><img src="img/logo.jpg" alt="OMJAPAN logo">' +
           '<span class="logo-ring"></span></div>' +
-          '<h1>Welcome to<br>OMJAPAN</h1><p>Your Japanese journey, offline and on your terms. Seven quick steps — every answer is optional.</p>' +
-          '<div class="placeholder-note" style="margin-top:24px">PLACEHOLDER LOGO</div></div>';
+          '<h1>Welcome to<br>OMJAPAN</h1><p>Your Japanese journey, offline and on your terms. Seven quick steps — every answer is optional.</p></div>';
       },
       function () {
         return '<div class="onboard-step"><h1>What should we call you?</h1><p>Only used on your home screen. Stored on this device.</p>' +

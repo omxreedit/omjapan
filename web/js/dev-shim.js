@@ -19,7 +19,7 @@
 
   window.OmBridge = {
     appInfo: function () {
-      return JSON.stringify({ name: 'OMJAPAN', version: '1.0.0', versionCode: 1,
+      return JSON.stringify({ name: 'OMJAPAN', version: '1.0.1', versionCode: 2,
         package: 'com.omjapan.app', offlineCore: true, devShim: true });
     },
     readAsset: function (path) {

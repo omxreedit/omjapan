@@ -4,6 +4,14 @@ All notable changes to this project are documented here. This project follows
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.1] — 2026-11-22
+
+### Changed
+
+- Replaced the marked placeholder with the owner-supplied official OMJAPAN logo across launcher, splash, onboarding and About.
+- Added `branding/logo.jpg` as the single source of brand artwork and `tools/make_logo.py` to apply it during every build.
+- Updated build defaults to version 1.0.1 / version code 2.
+
 ## [1.0.0] — 2026-11-22
 
 ### Added

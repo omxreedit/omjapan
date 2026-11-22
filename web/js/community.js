@@ -310,9 +310,8 @@
     var c = OM.cfg, d = c.developer;
     return ui.header('About OMJAPAN', 'Your Japanese journey — offline first.', { overline: 'ABOUT' }) +
       '<div class="hero-card" style="text-align:center"><div class="splash-logo" style="width:104px;height:104px;margin:0 auto">' +
-      '<img src="img/logo_placeholder.png" alt="OMJAPAN placeholder logo"><span class="logo-ring"></span></div>' +
-      '<h2 style="margin-top:20px">OMJAPAN</h2><p>Version ' + u.esc(c.version) + ' · package ' + u.esc(c.package) + '</p>' +
-      '<div class="placeholder-note" style="display:inline-block;margin-top:12px">PLACEHOLDER LOGO — REPLACE WITH 1000005646.jpg</div></div>' +
+      '<img src="img/logo.jpg" alt="OMJAPAN logo"><span class="logo-ring"></span></div>' +
+      '<h2 style="margin-top:20px">OMJAPAN</h2><p>Version ' + u.esc(c.version) + ' · package ' + u.esc(c.package) + '</p></div>' +
       '<p>OMJAPAN is an offline-first Japanese learning app for Hindi-speaking learners: kana, vocabulary, kanji, grammar, JLPT practice, a verified Hindi creator directory and an official-source opportunity radar.</p>' +
       ui.section('Creator', '<div class="card"><b>' + u.esc('Made by ' + d.name) + '</b>' +
         '<p class="small muted" style="margin-top:6px">YouTube: ' + u.esc(d.youtubeHandle) + '</p>' +

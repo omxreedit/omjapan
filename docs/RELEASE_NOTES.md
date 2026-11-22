@@ -1,28 +1,23 @@
-# OMJAPAN 1.0.0 release notes
+# OMJAPAN 1.0.1 release notes
 
 **Release date:** 2026-11-22  
-**APK:** `omjapan-1.0.0.apk`  
-**SHA-256:** `9255ff7939977ceb406bb0b34af981da18c44651508a285f6225f45a6dae227d`
+**APK:** `omjapan-1.0.1.apk`  
+**SHA-256:** `4dfeebbd4aad73f3b9c5f0a280a7add1526002d37e6203b083080a5fb2e8965b`
 
-## Highlights
+## What changed in this release
 
-- First complete offline-first OMJAPAN release.
-- Premium dark/lime dashboard with splash and seven optional onboarding steps.
-- Full bundled learning library, quiz engine, wrong-answer review and local analytics.
-- Verified Hindi/Hinglish Japanese creator directory with genuine external links.
-- Official-source Japan Opportunity Radar with tracker, checklist, timeline and user-controlled reminders.
-- Local privacy: no account, no analytics SDK, no ad SDK and no automatic upload.
+- The owner-supplied official OMJAPAN logo now replaces the marked placeholder everywhere: launcher icon, splash screen, onboarding and About screen.
+- `branding/logo.jpg` is now the single source of brand artwork.
+- `tools/make_logo.py` applies the official logo to generated Android and WebView assets on every build.
+- Version bumped to `1.0.1` (version code `2`) so installed devices can distinguish this build from `1.0.0`.
+
+## Unchanged from 1.0.0
+
+- Full offline Japanese learning library, quizzes, review, analytics, search and library.
+- Verified Hindi/Hinglish creator directory and official-source Opportunity Radar.
+- Local-first privacy: no account, ad SDK, analytics upload or automatic data sync.
 
 ## Important notes
 
-- The app currently ships an explicitly marked **placeholder logo**. The official `1000005646.jpg` was not available in the build environment; replace it before presenting the build as final branding.
-- No official RSS/Atom feed could be verified. The radar therefore shows a bundled, source-linked directory and never fakes live updates.
-- Opportunity statuses describe source verification or source-supported cycle state, not the user's application progress. Private tracker status is shown separately.
-
-## Installation
-
-Install the signed APK on Android 6.0 (API 23) or newer. Notifications are optional and only requested when the user enables reminders.
-
-## Known limitations
-
-See `docs/TESTING.md` for the complete evidence ledger and the checks that could not be performed in the build environment.
+- No official RSS/Atom feed was verified. The radar continues to show a bundled, source-linked directory rather than inventing live updates.
+- Device-level visual and runtime testing was not available in the build environment; see `docs/TESTING.md`.

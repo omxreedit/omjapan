@@ -5,8 +5,8 @@ set -eu
 
 ANDROID_DIR="$(cd "$(dirname "$0")" && pwd)"
 ROOT="$(cd "$ANDROID_DIR/.." && pwd)"
-VERSION="${OMJAPAN_VERSION:-1.0.0}"
-VERSION_CODE="${OMJAPAN_VERSION_CODE:-1}"
+VERSION="${OMJAPAN_VERSION:-1.0.1}"
+VERSION_CODE="${OMJAPAN_VERSION_CODE:-2}"
 BUILD="$ANDROID_DIR/build"
 GEN="$BUILD/gen"
 CLASSES="$BUILD/classes"
@@ -38,14 +38,13 @@ if [ ! -f "$SDK_JAR" ]; then
   fi
 fi
 
-python3 "$ROOT/tools/make_placeholder_logo.py"
-
-rm -rf "$BUILD"
+rm -rf "$BUILD" "$WEB" "$CONTENT"
 mkdir -p "$GEN" "$CLASSES" "$DEX" "$WEB" "$CONTENT" "$OUT_DIR" "$SECRET_DIR"
 
 # Bundle local-first UI + content. No remote dependency at runtime.
 cp -R "$ROOT/web/." "$WEB/"
 cp "$ROOT"/data/*.json "$CONTENT/"
+python3 "$ROOT/tools/make_logo.py"
 
 # ---- resources -> R.java ----
 aapt package -f -m -J "$GEN" -M "$ANDROID_DIR/AndroidManifest.xml" \

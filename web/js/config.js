@@ -1,8 +1,8 @@
 /* Real, verified links only. The GitHub repository was created on 2026-11-22. */
 window.OM_CONFIG = {
   appName: 'OMJAPAN',
-  version: '1.0.0',
-  versionCode: 1,
+  version: '1.0.1',
+  versionCode: 2,
   package: 'com.omjapan.app',
   githubUrl: 'https://github.com/omxreedit/omjapan',
   developer: {

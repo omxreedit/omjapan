@@ -36,8 +36,8 @@ public class OmBridge {
         try {
             JSONObject o = new JSONObject();
             o.put("name", "OMJAPAN");
-            o.put("version", "1.0.0");
-            o.put("versionCode", 1);
+            o.put("version", "1.0.1");
+            o.put("versionCode", 2);
             o.put("package", "com.omjapan.app");
             o.put("offlineCore", true);
             return o.toString();
