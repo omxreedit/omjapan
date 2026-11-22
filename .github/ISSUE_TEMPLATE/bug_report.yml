@@ -1,0 +1,59 @@
+name: Bug report
+description: Report incorrect behaviour in OMJAPAN
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting. Please never include personal data, signing material or private notes.
+  - type: input
+    id: version
+    attributes:
+      label: App version
+      placeholder: "1.0.0"
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Device and Android version
+      placeholder: "Example: Android 12, 720 x 1600"
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open ...
+        2. Tap ...
+        3. See ...
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Learning / quiz
+        - Creator directory
+        - Opportunity Radar
+        - Settings / privacy
+        - Splash / onboarding
+        - Build / packaging
+        - Other
+    validations:
+      required: true

@@ -1,0 +1,814 @@
+[
+ {
+  "id": "j001",
+  "level": "N5",
+  "section": "vocab",
+  "question": "「本」の意味はどれですか。",
+  "options": [
+   "book",
+   "school",
+   "teacher",
+   "water"
+  ],
+  "answer": 0,
+  "explanation": "本 (ほん) means book."
+ },
+ {
+  "id": "j002",
+  "level": "N5",
+  "section": "vocab",
+  "question": "「美味しい」 is pronounced…",
+  "options": [
+   "おいしい",
+   "うれしい",
+   "かなしい",
+   "いそがしい"
+  ],
+  "answer": 0,
+  "explanation": "美味しい = おいしい, delicious."
+ },
+ {
+  "id": "j003",
+  "level": "N5",
+  "section": "vocab",
+  "question": "「月曜日」 means…",
+  "options": [
+   "Monday",
+   "Tuesday",
+   "Sunday",
+   "Saturday"
+  ],
+  "answer": 0,
+  "explanation": "月曜日(げつようび) = Monday."
+ },
+ {
+  "id": "j004",
+  "level": "N5",
+  "section": "vocab",
+  "question": "「駅」 means…",
+  "options": [
+   "station",
+   "shop",
+   "hospital",
+   "library"
+  ],
+  "answer": 0,
+  "explanation": "駅(えき) = station."
+ },
+ {
+  "id": "j005",
+  "level": "N5",
+  "section": "vocab",
+  "question": "Which one is a drink?",
+  "options": [
+   "牛乳",
+   "りんご",
+   "パン",
+   "肉"
+  ],
+  "answer": 0,
+  "explanation": "牛乳(ぎゅうにゅう) = milk; the others are foods."
+ },
+ {
+  "id": "j006",
+  "level": "N5",
+  "section": "vocab",
+  "question": "「彼女」 means…",
+  "options": [
+   "she / girlfriend",
+   "he / boyfriend",
+   "child",
+   "teacher"
+  ],
+  "answer": 0,
+  "explanation": "彼女(かのじょ) = she / girlfriend."
+ },
+ {
+  "id": "j007",
+  "level": "N5",
+  "section": "vocab",
+  "question": "「行く」 means…",
+  "options": [
+   "to go",
+   "to come",
+   "to eat",
+   "to read"
+  ],
+  "answer": 0,
+  "explanation": "行く(いく) = to go."
+ },
+ {
+  "id": "j008",
+  "level": "N5",
+  "section": "vocab",
+  "question": "「十一」 is read…",
+  "options": [
+   "じゅういち",
+   "いちじゅう",
+   "じゅういちにち",
+   "とおひと"
+  ],
+  "answer": 0,
+  "explanation": "11 = じゅういち."
+ },
+ {
+  "id": "j009",
+  "level": "N5",
+  "section": "grammar",
+  "question": "私は学生___。",
+  "options": [
+   "です",
+   "ます",
+   "だきます",
+   "しています"
+  ],
+  "answer": 0,
+  "explanation": "Noun + です in polite style."
+ },
+ {
+  "id": "j010",
+  "level": "N5",
+  "section": "grammar",
+  "question": "本___読みます。",
+  "options": [
+   "を",
+   "が",
+   "に",
+   "で"
+  ],
+  "answer": 0,
+  "explanation": "を marks the direct object."
+ },
+ {
+  "id": "j011",
+  "level": "N5",
+  "section": "grammar",
+  "question": "学校___行きます。",
+  "options": [
+   "に",
+   "を",
+   "で",
+   "が"
+  ],
+  "answer": 0,
+  "explanation": "に marks a destination."
+ },
+ {
+  "id": "j012",
+  "level": "N5",
+  "section": "grammar",
+  "question": "電車___行きます。",
+  "options": [
+   "で",
+   "に",
+   "を",
+   "と"
+  ],
+  "answer": 0,
+  "explanation": "で marks a means of transport."
+ },
+ {
+  "id": "j013",
+  "level": "N5",
+  "section": "grammar",
+  "question": "昨日、映画を___。",
+  "options": [
+   "見ました",
+   "見ます",
+   "見ません",
+   "見ましょう"
+  ],
+  "answer": 0,
+  "explanation": "昨日 requires past ました."
+ },
+ {
+  "id": "j014",
+  "level": "N5",
+  "section": "grammar",
+  "question": "お酒を___ません。",
+  "options": [
+   "飲み",
+   "飲む",
+   "飲ん",
+   "飲みま"
+  ],
+  "answer": 0,
+  "explanation": "ます-stem + ません forms the polite negative."
+ },
+ {
+  "id": "j015",
+  "level": "N5",
+  "section": "grammar",
+  "question": "これは本です___。",
+  "options": [
+   "か",
+   "ね",
+   "よ",
+   "ぞ"
+  ],
+  "answer": 0,
+  "explanation": "か marks a question."
+ },
+ {
+  "id": "j016",
+  "level": "N5",
+  "section": "grammar",
+  "question": "私___猫がいます。",
+  "options": [
+   "は",
+   "が",
+   "を",
+   "で"
+  ],
+  "answer": 0,
+  "explanation": "は marks the topic; が marks the subject."
+ },
+ {
+  "id": "j017",
+  "level": "N5",
+  "section": "kanji",
+  "question": "「山」の読み方は？",
+  "options": [
+   "やま",
+   "かわ",
+   "そら",
+   "もり"
+  ],
+  "answer": 0,
+  "explanation": "山 = やま (mountain)."
+ },
+ {
+  "id": "j018",
+  "level": "N5",
+  "section": "kanji",
+  "question": "「火曜日」 is which day?",
+  "options": [
+   "Tuesday",
+   "Friday",
+   "Monday",
+   "Saturday"
+  ],
+  "answer": 0,
+  "explanation": "火曜日 = Tuesday."
+ },
+ {
+  "id": "j019",
+  "level": "N5",
+  "section": "kanji",
+  "question": "「大」 means…",
+  "options": [
+   "big",
+   "small",
+   "old",
+   "new"
+  ],
+  "answer": 0,
+  "explanation": "大 = big."
+ },
+ {
+  "id": "j020",
+  "level": "N5",
+  "section": "kanji",
+  "question": "「白」 means…",
+  "options": [
+   "white",
+   "black",
+   "red",
+   "blue"
+  ],
+  "answer": 0,
+  "explanation": "白 = white."
+ },
+ {
+  "id": "j021",
+  "level": "N5",
+  "section": "reading",
+  "question": "これは私の本です。 Where is the book?",
+  "options": [
+   "It is the speaker's",
+   "It is the listener's",
+   "It is a library book",
+   "It is unknown"
+  ],
+  "answer": 0,
+  "explanation": "私の = my, so it's the speaker's book."
+ },
+ {
+  "id": "j022",
+  "level": "N5",
+  "section": "reading",
+  "question": "彼は学校へ行きません。 What is true?",
+  "options": [
+   "He doesn't go to school",
+   "He went to school",
+   "He wants to go",
+   "He is at school"
+  ],
+  "answer": 0,
+  "explanation": "行きません = does not go."
+ },
+ {
+  "id": "j023",
+  "level": "N5",
+  "section": "reading",
+  "question": "ねこがいます。 What is there?",
+  "options": [
+   "a cat",
+   "a book",
+   "a car",
+   "a person"
+  ],
+  "answer": 0,
+  "explanation": "ねこ = cat; がいます = there is."
+ },
+ {
+  "id": "j024",
+  "level": "N4",
+  "section": "vocab",
+  "question": "「約束」 means…",
+  "options": [
+   "promise",
+   "preparation",
+   "experience",
+   "result"
+  ],
+  "answer": 0,
+  "explanation": "約束(やくそく) = promise."
+ },
+ {
+  "id": "j025",
+  "level": "N4",
+  "section": "vocab",
+  "question": "「復習」 means…",
+  "options": [
+   "review after class",
+   "pre-study",
+   "homework",
+   "exam"
+  ],
+  "answer": 0,
+  "explanation": "復習(ふくしゅう) = reviewing what was learned."
+ },
+ {
+  "id": "j026",
+  "level": "N4",
+  "section": "vocab",
+  "question": "「失敗」 means…",
+  "options": [
+   "failure",
+   "success",
+   "attempt",
+   "decision"
+  ],
+  "answer": 0,
+  "explanation": "失敗(しっぱい) = failure / mistake."
+ },
+ {
+  "id": "j027",
+  "level": "N4",
+  "section": "vocab",
+  "question": "「覚える」 means…",
+  "options": [
+   "to memorise",
+   "to forget",
+   "to teach",
+   "to choose"
+  ],
+  "answer": 0,
+  "explanation": "覚える(おぼえる) = to memorise."
+ },
+ {
+  "id": "j028",
+  "level": "N4",
+  "section": "grammar",
+  "question": "音楽を聞き___勉強します。",
+  "options": [
+   "ながら",
+   "たり",
+   "そう",
+   "まで"
+  ],
+  "answer": 0,
+  "explanation": "ながら = while doing."
+ },
+ {
+  "id": "j029",
+  "level": "N4",
+  "section": "grammar",
+  "question": "雨が降___、行きません。",
+  "options": [
+   "ったら",
+   "れば",
+   "ながら",
+   "よう"
+  ],
+  "answer": 0,
+  "explanation": "たら = if/when."
+ },
+ {
+  "id": "j030",
+  "level": "N4",
+  "section": "grammar",
+  "question": "彼は疲れている___です。",
+  "options": [
+   "よう",
+   "そう",
+   "らしい",
+   "ため"
+  ],
+  "answer": 0,
+  "explanation": "Verb-ている + ようです = seems to be."
+ },
+ {
+  "id": "j031",
+  "level": "N4",
+  "section": "grammar",
+  "question": "このケーキはおいし___です。",
+  "options": [
+   "そう",
+   "よう",
+   "らしく",
+   "ため"
+  ],
+  "answer": 0,
+  "explanation": "い-adj stem + そう = looks delicious."
+ },
+ {
+  "id": "j032",
+  "level": "N4",
+  "section": "grammar",
+  "question": "試験___勉強しています。",
+  "options": [
+   "のために",
+   "ので",
+   "から",
+   "のに"
+  ],
+  "answer": 0,
+  "explanation": "ため(に) = for the purpose of."
+ },
+ {
+  "id": "j033",
+  "level": "N4",
+  "section": "grammar",
+  "question": "たくさん勉強した___、落ちました。",
+  "options": [
+   "のに",
+   "ので",
+   "から",
+   "ために"
+  ],
+  "answer": 0,
+  "explanation": "のに = although / even though."
+ },
+ {
+  "id": "j034",
+  "level": "N4",
+  "section": "grammar",
+  "question": "行きたければ、行___ください。",
+  "options": [
+   "って",
+   "き",
+   "い",
+   "う"
+  ],
+  "answer": 0,
+  "explanation": "行く → 行ってください."
+ },
+ {
+  "id": "j035",
+  "level": "N4",
+  "section": "kanji",
+  "question": "「結果」 is read…",
+  "options": [
+   "けっか",
+   "けっこう",
+   "かんけつ",
+   "せいか"
+  ],
+  "answer": 0,
+  "explanation": "結果 = けっか (result)."
+ },
+ {
+  "id": "j036",
+  "level": "N4",
+  "section": "kanji",
+  "question": "「強い」 means…",
+  "options": [
+   "strong",
+   "weak",
+   "long",
+   "short"
+  ],
+  "answer": 0,
+  "explanation": "強い(つよい) = strong."
+ },
+ {
+  "id": "j037",
+  "level": "N3",
+  "section": "vocab",
+  "question": "「傾向」 means…",
+  "options": [
+   "tendency",
+   "environment",
+   "economy",
+   "tradition"
+  ],
+  "answer": 0,
+  "explanation": "傾向(けいこう) = tendency."
+ },
+ {
+  "id": "j038",
+  "level": "N3",
+  "section": "vocab",
+  "question": "「可能性」 means…",
+  "options": [
+   "possibility",
+   "importance",
+   "conclusion",
+   "process"
+  ],
+  "answer": 0,
+  "explanation": "可能性(かのうせい) = possibility."
+ },
+ {
+  "id": "j039",
+  "level": "N3",
+  "section": "vocab",
+  "question": "「影響」 means…",
+  "options": [
+   "influence",
+   "survey",
+   "analysis",
+   "culture"
+  ],
+  "answer": 0,
+  "explanation": "影響(えいきょう) = influence."
+ },
+ {
+  "id": "j040",
+  "level": "N3",
+  "section": "grammar",
+  "question": "一生懸命勉強した___、失敗しました。",
+  "options": [
+   "にもかかわらず",
+   "ために",
+   "ので",
+   "ながら"
+  ],
+  "answer": 0,
+  "explanation": "にもかかわらず = despite."
+ },
+ {
+  "id": "j041",
+  "level": "N3",
+  "section": "grammar",
+  "question": "彼はもう着いている___です。",
+  "options": [
+   "はず",
+   "べき",
+   "よう",
+   "そう"
+  ],
+  "answer": 0,
+  "explanation": "はず = should (logical expectation)."
+ },
+ {
+  "id": "j042",
+  "level": "N3",
+  "section": "grammar",
+  "question": "学生___、試験は大変です。",
+  "options": [
+   "にとって",
+   "によって",
+   "に対して",
+   "について"
+  ],
+  "answer": 0,
+  "explanation": "にとって = from the viewpoint of."
+ },
+ {
+  "id": "j043",
+  "level": "N3",
+  "section": "grammar",
+  "question": "高いものが良い___限りません。",
+  "options": [
+   "とは",
+   "では",
+   "のに",
+   "から"
+  ],
+  "answer": 0,
+  "explanation": "とは限らない = not necessarily."
+ },
+ {
+  "id": "j044",
+  "level": "N3",
+  "section": "grammar",
+  "question": "この歌を聞く___、日本を思い出します。",
+  "options": [
+   "たびに",
+   "ために",
+   "ので",
+   "ながら"
+  ],
+  "answer": 0,
+  "explanation": "たびに = every time."
+ },
+ {
+  "id": "j045",
+  "level": "N3",
+  "section": "kanji",
+  "question": "「調査」 is read…",
+  "options": [
+   "ちょうさ",
+   "ちょうさつ",
+   "そうさ",
+   "ちょうざ"
+  ],
+  "answer": 0,
+  "explanation": "調査 = ちょうさ (survey)."
+ },
+ {
+  "id": "j046",
+  "level": "N3",
+  "section": "kanji",
+  "question": "「環境」 means…",
+  "options": [
+   "environment",
+   "economy",
+   "society",
+   "research"
+  ],
+  "answer": 0,
+  "explanation": "環境(かんきょう) = environment."
+ },
+ {
+  "id": "j047",
+  "level": "N2",
+  "section": "vocab",
+  "question": "「妥当」 means…",
+  "options": [
+   "appropriate",
+   "ambiguous",
+   "complex",
+   "essential"
+  ],
+  "answer": 0,
+  "explanation": "妥当(だとう) = appropriate / valid."
+ },
+ {
+  "id": "j048",
+  "level": "N2",
+  "section": "grammar",
+  "question": "彼はプロ___、上手です。",
+  "options": [
+   "だけあって",
+   "より",
+   "ながら",
+   "ものの"
+  ],
+  "answer": 0,
+  "explanation": "だけあって = as expected of."
+ },
+ {
+  "id": "j049",
+  "level": "N2",
+  "section": "grammar",
+  "question": "笑わ___にはいられません。",
+  "options": [
+   "ず",
+   "ない",
+   "なく",
+   "ざる"
+  ],
+  "answer": 0,
+  "explanation": "ずにはいられない = can't help doing."
+ },
+ {
+  "id": "j050",
+  "level": "N2",
+  "section": "grammar",
+  "question": "京都___の景色です。",
+  "options": [
+   "ならでは",
+   "だけあって",
+   "はおろか",
+   "ゆえに"
+  ],
+  "answer": 0,
+  "explanation": "ならでは = unique to."
+ },
+ {
+  "id": "j051",
+  "level": "N2",
+  "section": "grammar",
+  "question": "経験不足___、失敗しました。",
+  "options": [
+   "ゆえに",
+   "ために",
+   "ので",
+   "から"
+  ],
+  "answer": 0,
+  "explanation": "ゆえに = because of (formal)."
+ },
+ {
+  "id": "j052",
+  "level": "N2",
+  "section": "kanji",
+  "question": "「批判」 is read…",
+  "options": [
+   "ひはん",
+   "ひばん",
+   "ひはつ",
+   "ぴはん"
+  ],
+  "answer": 0,
+  "explanation": "批判 = ひはん (criticism)."
+ },
+ {
+  "id": "j053",
+  "level": "N1",
+  "section": "vocab",
+  "question": "「客観的」 means…",
+  "options": [
+   "objective",
+   "subjective",
+   "inevitable",
+   "essential"
+  ],
+  "answer": 0,
+  "explanation": "客観的(きゃっかんてき) = objective."
+ },
+ {
+  "id": "j054",
+  "level": "N1",
+  "section": "vocab",
+  "question": "「要約」 means…",
+  "options": [
+   "summary",
+   "supplement",
+   "inference",
+   "assertion"
+  ],
+  "answer": 0,
+  "explanation": "要約(ようやく) = summary."
+ },
+ {
+  "id": "j055",
+  "level": "N1",
+  "section": "grammar",
+  "question": "学生___の、勉強するべきです。",
+  "options": [
+   "たるもの",
+   "ならでは",
+   "はおろか",
+   "ぬきで"
+  ],
+  "answer": 0,
+  "explanation": "たるもの = as one who is…"
+ },
+ {
+  "id": "j056",
+  "level": "N1",
+  "section": "grammar",
+  "question": "どんなに忙しい___、休むべきです。",
+  "options": [
+   "といえども",
+   "にもかかわらず",
+   "とは限らず",
+   "かねない"
+  ],
+  "answer": 0,
+  "explanation": "といえども = even though (formal)."
+ },
+ {
+  "id": "j057",
+  "level": "N1",
+  "section": "grammar",
+  "question": "準備___で試験を受けました。",
+  "options": [
+   "ぬき",
+   "のみ",
+   "ずつ",
+   "きり"
+  ],
+  "answer": 0,
+  "explanation": "ぬきで = without / excluding."
+ },
+ {
+  "id": "j058",
+  "level": "N1",
+  "section": "kanji",
+  "question": "「本質的」 is read…",
+  "options": [
+   "ほんしつてき",
+   "ほんしつでき",
+   "ほんじつてき",
+   "ほんしってき"
+  ],
+  "answer": 0,
+  "explanation": "本質的 = ほんしつてき."
+ }
+]

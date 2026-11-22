@@ -1,0 +1,37 @@
+name: Feature request
+description: Suggest an improvement grounded in the app's offline-first mission
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem does this solve?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed change
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Source or evidence, if this involves a creator or opportunity
+      description: Use official links only. Do not add invented names, dates or URLs.
+  - type: dropdown
+    id: offline
+    attributes:
+      label: Does it work offline?
+      options:
+        - "Yes, fully local"
+        - "Mostly local"
+        - "Requires network"
+        - "Not sure"
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered

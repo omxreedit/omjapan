@@ -1,0 +1,1098 @@
+[
+ {
+  "level": "N5",
+  "title": "は — topic marker",
+  "pattern": "Noun は …",
+  "explanation": "は marks what the sentence is about. It is pronounced 'wa'. Use it to introduce or contrast a topic.",
+  "examples": [
+   {
+    "jp": "私は学生です。",
+    "kana": "わたしはがくせいです。",
+    "romaji": "Watashi wa gakusei desu.",
+    "en": "I am a student."
+   },
+   {
+    "jp": "コーヒーは飲みません。",
+    "kana": "コーヒーはのみません。",
+    "romaji": "Koohii wa nomimasen.",
+    "en": "As for coffee, I don't drink it."
+   }
+  ],
+  "category": "general",
+  "id": "g001"
+ },
+ {
+  "level": "N5",
+  "title": "が — subject marker",
+  "pattern": "Noun が …",
+  "explanation": "が marks the subject, especially a new subject or the subject of an intransitive verb.",
+  "examples": [
+   {
+    "jp": "猫がいます。",
+    "kana": "ねこがいます。",
+    "romaji": "Neko ga imasu.",
+    "en": "There is a cat."
+   },
+   {
+    "jp": "誰が来ましたか。",
+    "kana": "だれがきましたか。",
+    "romaji": "Dare ga kimashita ka.",
+    "en": "Who came?"
+   }
+  ],
+  "category": "general",
+  "id": "g002"
+ },
+ {
+  "level": "N5",
+  "title": "を — object marker",
+  "pattern": "Noun を + verb",
+  "explanation": "を marks the direct object of a transitive verb. It is pronounced 'wo'.",
+  "examples": [
+   {
+    "jp": "本を読みます。",
+    "kana": "ほんをよみます。",
+    "romaji": "Hon o yomimasu.",
+    "en": "I read a book."
+   },
+   {
+    "jp": "お茶を飲みます。",
+    "kana": "おちゃをのみます。",
+    "romaji": "Ocha o nomimasu.",
+    "en": "I drink tea."
+   }
+  ],
+  "category": "general",
+  "id": "g003"
+ },
+ {
+  "level": "N5",
+  "title": "に — destination, time and indirect object",
+  "pattern": "Noun に + verb",
+  "explanation": "に marks a destination, a point in time, or the recipient of an action.",
+  "examples": [
+   {
+    "jp": "学校に行きます。",
+    "kana": "がっこうにいきます。",
+    "romaji": "Gakkou ni ikimasu.",
+    "en": "I go to school."
+   },
+   {
+    "jp": "三時に会いましょう。",
+    "kana": "さんじにあいましょう。",
+    "romaji": "San-ji ni aimashou.",
+    "en": "Let's meet at three."
+   }
+  ],
+  "category": "general",
+  "id": "g004"
+ },
+ {
+  "level": "N5",
+  "title": "で — place, tool and method",
+  "pattern": "Noun で + verb",
+  "explanation": "で marks where an action happens or the means used to do it.",
+  "examples": [
+   {
+    "jp": "電車で行きます。",
+    "kana": "でんしゃでいきます。",
+    "romaji": "Densha de ikimasu.",
+    "en": "I go by train."
+   },
+   {
+    "jp": "図書館で勉強します。",
+    "kana": "としょかんでべんきょうします。",
+    "romaji": "Toshokan de benkyou shimasu.",
+    "en": "I study at the library."
+   }
+  ],
+  "category": "general",
+  "id": "g005"
+ },
+ {
+  "level": "N5",
+  "title": "の — possession and nominalisation",
+  "pattern": "Noun の Noun",
+  "explanation": "の connects nouns (like 's'), and turns a phrase into a noun.",
+  "examples": [
+   {
+    "jp": "私の本です。",
+    "kana": "わたしのほんです。",
+    "romaji": "Watashi no hon desu.",
+    "en": "It's my book."
+   },
+   {
+    "jp": "日本語を話すのは難しいです。",
+    "kana": "にほんごをはなすのはむずかしいです。",
+    "romaji": "Nihongo o hanasu no wa muzukashii desu.",
+    "en": "Speaking Japanese is difficult."
+   }
+  ],
+  "category": "general",
+  "id": "g006"
+ },
+ {
+  "level": "N5",
+  "title": "も — also / too",
+  "pattern": "Noun も …",
+  "explanation": "も replaces は or が to say 'also' or 'too'.",
+  "examples": [
+   {
+    "jp": "私も行きます。",
+    "kana": "わたしもいきます。",
+    "romaji": "Watashi mo ikimasu.",
+    "en": "I'll go too."
+   },
+   {
+    "jp": "これもください。",
+    "kana": "これもください。",
+    "romaji": "Kore mo kudasai.",
+    "en": "Please give me this one as well."
+   }
+  ],
+  "category": "general",
+  "id": "g007"
+ },
+ {
+  "level": "N5",
+  "title": "です / ます — polite style",
+  "pattern": "Noun/Na-adj です · Verb ます",
+  "explanation": "です is the polite copula; ます is the polite verb ending. Use them in most first conversations.",
+  "examples": [
+   {
+    "jp": "これは本です。",
+    "kana": "これはほんです。",
+    "romaji": "Kore wa hon desu.",
+    "en": "This is a book."
+   },
+   {
+    "jp": "毎日勉強します。",
+    "kana": "まいにちべんきょうします。",
+    "romaji": "Mainichi benkyou shimasu.",
+    "en": "I study every day."
+   }
+  ],
+  "category": "general",
+  "id": "g008"
+ },
+ {
+  "level": "N5",
+  "title": "た — past tense",
+  "pattern": "Verb-た",
+  "explanation": "で・だ → た; ます → ました; ない → なかった. Describes completed past actions or states.",
+  "examples": [
+   {
+    "jp": "昨日映画を見ました。",
+    "kana": "きのうえいがをみました。",
+    "romaji": "Kinou eiga o mimashita.",
+    "en": "I watched a movie yesterday."
+   },
+   {
+    "jp": "美味しかったです。",
+    "kana": "おいしかったです。",
+    "romaji": "Oishikatta desu.",
+    "en": "It was delicious."
+   }
+  ],
+  "category": "general",
+  "id": "g009"
+ },
+ {
+  "level": "N5",
+  "title": "ない — negative",
+  "pattern": "Verb-ない · ではありません",
+  "explanation": "Plain negative of verbs; です becomes ではありません (or じゃありません).",
+  "examples": [
+   {
+    "jp": "お酒を飲みません。",
+    "kana": "おさけをのみません。",
+    "romaji": "Osake o nomimasen.",
+    "en": "I don't drink alcohol."
+   },
+   {
+    "jp": "これは私の本ではありません。",
+    "kana": "これはわたしのほんではありません。",
+    "romaji": "Kore wa watashi no hon de wa arimasen.",
+    "en": "This isn't my book."
+   }
+  ],
+  "category": "general",
+  "id": "g010"
+ },
+ {
+  "level": "N5",
+  "title": "て — connective form",
+  "pattern": "Verb-て + clause",
+  "explanation": "The て-form links actions ('and then'), and combines with います, ください, もいいです.",
+  "examples": [
+   {
+    "jp": "起きて、朝ご飯を食べます。",
+    "kana": "おきて、あさごはんをたべます。",
+    "romaji": "Okite, asagohan o tabemasu.",
+    "en": "I get up and eat breakfast."
+   },
+   {
+    "jp": "写真を見てもいいですか。",
+    "kana": "しゃしんをみてもいいですか。",
+    "romaji": "Shashin o mite mo ii desu ka.",
+    "en": "May I look at the photo?"
+   }
+  ],
+  "category": "general",
+  "id": "g011"
+ },
+ {
+  "level": "N5",
+  "title": "から / ので — because",
+  "pattern": "Clause から / ので, result",
+  "explanation": "から gives a direct reason; ので is softer and often used for requests or explanations.",
+  "examples": [
+   {
+    "jp": "雨が降っているから、行きません。",
+    "kana": "あめがふっているから、いきません。",
+    "romaji": "Ame ga futte iru kara, ikimasen.",
+    "en": "It's raining, so I won't go."
+   },
+   {
+    "jp": "時間がないので、急ぎます。",
+    "kana": "じかんがないので、いそぎます。",
+    "romaji": "Jikan ga nai node, isogimasu.",
+    "en": "I have no time, so I'm hurrying."
+   }
+  ],
+  "category": "general",
+  "id": "g012"
+ },
+ {
+  "level": "N5",
+  "title": "たい — want to do",
+  "pattern": "Verb-たい",
+  "explanation": "Expresses the speaker's desire. たいです is polite; it conjugates like an い-adjective.",
+  "examples": [
+   {
+    "jp": "日本に行きたいです。",
+    "kana": "にほんにいきたいです。",
+    "romaji": "Nihon ni ikitai desu.",
+    "en": "I want to go to Japan."
+   },
+   {
+    "jp": "何を食べたいですか。",
+    "kana": "なにをたべたいですか。",
+    "romaji": "Nani o tabetai desu ka.",
+    "en": "What do you want to eat?"
+   }
+  ],
+  "category": "general",
+  "id": "g013"
+ },
+ {
+  "level": "N5",
+  "title": "ことができる — can / ability",
+  "pattern": "Verb (dictionary) ことができる",
+  "explanation": "A more formal way to say an action is possible or that someone can do it.",
+  "examples": [
+   {
+    "jp": "日本語を話すことができます。",
+    "kana": "にほんごをはなすことができます。",
+    "romaji": "Nihongo o hanasu koto ga dekimasu.",
+    "en": "I can speak Japanese."
+   },
+   {
+    "jp": "ここで泳ぐことができますか。",
+    "kana": "ここでおよぐことができますか。",
+    "romaji": "Koko de oyogu koto ga dekimasu ka.",
+    "en": "Can we swim here?"
+   }
+  ],
+  "category": "general",
+  "id": "g014"
+ },
+ {
+  "level": "N5",
+  "title": "あります / います — existence",
+  "pattern": "Place に Noun が あります / います",
+  "explanation": "あります for inanimate things; います for people and animals.",
+  "examples": [
+   {
+    "jp": "机上に本があります。",
+    "kana": "つくえうえにほんがあります。",
+    "romaji": "Tsukue-ue ni hon ga arimasu.",
+    "en": "There is a book on the desk."
+   },
+   {
+    "jp": "部屋に猫がいます。",
+    "kana": "へやにねこがいます。",
+    "romaji": "Heya ni neko ga imasu.",
+    "en": "There is a cat in the room."
+   }
+  ],
+  "category": "general",
+  "id": "g015"
+ },
+ {
+  "level": "N5",
+  "title": "ください — requests",
+  "pattern": "Noun を ください · Verb-て ください",
+  "explanation": "Polite request: 'please give me' or 'please do'.",
+  "examples": [
+   {
+    "jp": "水をください。",
+    "kana": "みずをください。",
+    "romaji": "Mizu o kudasai.",
+    "en": "Please give me water."
+   },
+   {
+    "jp": "ここに書いてください。",
+    "kana": "ここにかいてください。",
+    "romaji": "Koko ni kaite kudasai.",
+    "en": "Please write here."
+   }
+  ],
+  "category": "general",
+  "id": "g016"
+ },
+ {
+  "level": "N5",
+  "title": "ましょう / ませんか — suggestions",
+  "pattern": "Verb-ましょう · Verb-ませんか",
+  "explanation": "ましょう = 'let's'; ませんか = 'would you like to…?'",
+  "examples": [
+   {
+    "jp": "一緒に行きましょう。",
+    "kana": "いっしょにいきましょう。",
+    "romaji": "Issho ni ikimashou.",
+    "en": "Let's go together."
+   },
+   {
+    "jp": "コーヒーを飲みませんか。",
+    "kana": "コーヒーをのみませんか。",
+    "romaji": "Koohii o nomimasen ka.",
+    "en": "Would you like some coffee?"
+   }
+  ],
+  "category": "general",
+  "id": "g017"
+ },
+ {
+  "level": "N5",
+  "title": "より / ほうが — comparison",
+  "pattern": "A は B より … · A は B より …ほうが …",
+  "explanation": "より marks the standard of comparison; ほうが means 'more …'.",
+  "examples": [
+   {
+    "jp": "今日は昨日より寒いです。",
+    "kana": "きょうはきのうよりさむいです。",
+    "romaji": "Kyou wa kinou yori samui desu.",
+    "en": "Today is colder than yesterday."
+   },
+   {
+    "jp": "電車のほうが速いです。",
+    "kana": "でんしゃのほうがはやいです。",
+    "romaji": "Densha no hou ga hayai desu.",
+    "en": "The train is faster."
+   }
+  ],
+  "category": "general",
+  "id": "g018"
+ },
+ {
+  "level": "N5",
+  "title": "な-adjectives and 好き / 上手",
+  "pattern": "Noun が 好き / 上手 です",
+  "explanation": "好き (like), 嫌い (dislike), 上手 (good at) and 下手 (bad at) take が for the object.",
+  "examples": [
+   {
+    "jp": "私は魚が好きです。",
+    "kana": "わたしはさかながすきです。",
+    "romaji": "Watashi wa sakana ga suki desu.",
+    "en": "I like fish."
+   },
+   {
+    "jp": "彼女は英語が上手です。",
+    "kana": "かのじょはえいごがじょうずです。",
+    "romaji": "Kanojo wa eigo ga jouzu desu.",
+    "en": "She is good at English."
+   }
+  ],
+  "category": "general",
+  "id": "g019"
+ },
+ {
+  "level": "N4",
+  "title": "ながら — while doing",
+  "pattern": "Verb-ながら, main clause",
+  "explanation": "Two actions by the same subject happen at the same time; the main action is the second one.",
+  "examples": [
+   {
+    "jp": "音楽を聞きながら勉強します。",
+    "kana": "おんがくをききながらべんきょうします。",
+    "romaji": "Ongaku o kikinagara benkyou shimasu.",
+    "en": "I study while listening to music."
+   },
+   {
+    "jp": "歩きながら話しましょう。",
+    "kana": "あるきながらはなしましょう。",
+    "romaji": "Arukinagara hanashimashou.",
+    "en": "Let's talk while walking."
+   }
+  ],
+  "category": "general",
+  "id": "g020"
+ },
+ {
+  "level": "N4",
+  "title": "たり〜たり — and so on",
+  "pattern": "Verb-たり Verb-たり する",
+  "explanation": "Lists representative actions among others; often ends with する.",
+  "examples": [
+   {
+    "jp": "週末は本を読んだり映画を見たりします。",
+    "kana": "しゅうまつはほんをよんだりえいがをみたりします。",
+    "romaji": "Shuumatsu wa hon o yondari eiga o mitari shimasu.",
+    "en": "On weekends I read books, watch movies, and so on."
+   }
+  ],
+  "category": "general",
+  "id": "g021"
+ },
+ {
+  "level": "N4",
+  "title": "そうです (appearance)",
+  "pattern": "い-adj stem / na-adj stem そうです",
+  "explanation": "Reports how something looks: 'looks / seems …'. いい → よさそうです.",
+  "examples": [
+   {
+    "jp": "このケーキはおいしそうです。",
+    "kana": "このケーキはおいしそうです。",
+    "romaji": "Kono keeki wa oishisou desu.",
+    "en": "This cake looks delicious."
+   },
+   {
+    "jp": "雨が降りそうです。",
+    "kana": "あめがふりそうです。",
+    "romaji": "Ame ga furisou desu.",
+    "en": "It looks like rain."
+   }
+  ],
+  "category": "general",
+  "id": "g022"
+ },
+ {
+  "level": "N4",
+  "title": "そうです (hearsay)",
+  "pattern": "Plain clause そうです",
+  "explanation": "Reports information heard from someone else: 'I hear that …'.",
+  "examples": [
+   {
+    "jp": "彼はもう帰ったそうです。",
+    "kana": "かれはもうかえったそうです。",
+    "romaji": "Kare wa mou kaetta sou desu.",
+    "en": "I hear he already went home."
+   }
+  ],
+  "category": "general",
+  "id": "g023"
+ },
+ {
+  "level": "N4",
+  "title": "ようです — seems / appears",
+  "pattern": "Plain clause ようです · Noun の ようです",
+  "explanation": "A softer, more tentative inference than そうです.",
+  "examples": [
+   {
+    "jp": "彼は疲れているようです。",
+    "kana": "かれはつかれているようです。",
+    "romaji": "Kare wa tsukarete iru you desu.",
+    "en": "He seems tired."
+   },
+   {
+    "jp": "この店は安いようです。",
+    "kana": "このみせはやすいようです。",
+    "romaji": "Kono mise wa yasui you desu.",
+    "en": "This shop seems cheap."
+   }
+  ],
+  "category": "general",
+  "id": "g024"
+ },
+ {
+  "level": "N4",
+  "title": "らしい — appears to be / typical",
+  "pattern": "Plain clause らしい · Noun らしい",
+  "explanation": "Indicates a judgement based on evidence, or typical qualities ('-like').",
+  "examples": [
+   {
+    "jp": "彼は行かないらしいです。",
+    "kana": "かれはいかないらしいです。",
+    "romaji": "Kare wa ikanai rashii desu.",
+    "en": "Apparently he isn't going."
+   },
+   {
+    "jp": "彼女は本当に先生らしいです。",
+    "kana": "かのじょはほんとうにせんせいらしいです。",
+    "romaji": "Kanojo wa hontou ni sensei rashii desu.",
+    "en": "She is really teacher-like."
+   }
+  ],
+  "category": "general",
+  "id": "g025"
+ },
+ {
+  "level": "N4",
+  "title": "ため — purpose / reason",
+  "pattern": "Noun のため (に) · Verb-dictionary ために",
+  "explanation": "Expresses purpose ('for the sake of') or a cause ('because of').",
+  "examples": [
+   {
+    "jp": "試験のために勉強しています。",
+    "kana": "しけんのためにべんきょうしています。",
+    "romaji": "Shiken no tame ni benkyou shite imasu.",
+    "en": "I'm studying for the exam."
+   },
+   {
+    "jp": "雨のため、試合は中止です。",
+    "kana": "あめのため、しあいはちゅうしです。",
+    "romaji": "Ame no tame, shiai wa chuushi desu.",
+    "en": "The match was cancelled because of rain."
+   }
+  ],
+  "category": "general",
+  "id": "g026"
+ },
+ {
+  "level": "N4",
+  "title": "のに — although / even though",
+  "pattern": "Plain clause のに, result",
+  "explanation": "Surprise or regret: a result that is contrary to expectation.",
+  "examples": [
+   {
+    "jp": "たくさん勉強したのに、落ちました。",
+    "kana": "たくさんべんきょうしたのに、おちました。",
+    "romaji": "Takusan benkyou shita noni, ochimashita.",
+    "en": "Even though I studied a lot, I failed."
+   }
+  ],
+  "category": "general",
+  "id": "g027"
+ },
+ {
+  "level": "N4",
+  "title": "ば — conditional",
+  "pattern": "Verb-ば · い-adj ければ",
+  "explanation": "A conditional: 'if / when'. The ば-clause often precedes a request or result.",
+  "examples": [
+   {
+    "jp": "安ければ、買います。",
+    "kana": "やすければ、かいます。",
+    "romaji": "Yasukereba, kaimasu.",
+    "en": "If it's cheap, I'll buy it."
+   },
+   {
+    "jp": "行きたければ、行ってください。",
+    "kana": "いきたければ、いってください。",
+    "romaji": "Ikitakereba, itte kudasai.",
+    "en": "If you want to go, please go."
+   }
+  ],
+  "category": "general",
+  "id": "g028"
+ },
+ {
+  "level": "N4",
+  "title": "たら — conditional / when",
+  "pattern": "Verb-たら",
+  "explanation": "Most general conditional, often for one-off future situations.",
+  "examples": [
+   {
+    "jp": "雨が降ったら、行きません。",
+    "kana": "あめがふったら、いきません。",
+    "romaji": "Ame ga futtara, ikimasen.",
+    "en": "If it rains, I won't go."
+   },
+   {
+    "jp": "駅に着いたら、電話してください。",
+    "kana": "えきについたら、でんわしてください。",
+    "romaji": "Eki ni tsuitara, denwa shite kudasai.",
+    "en": "Call me when you arrive at the station."
+   }
+  ],
+  "category": "general",
+  "id": "g029"
+ },
+ {
+  "level": "N4",
+  "title": "なら — if it's the case that",
+  "pattern": "Noun / plain clause なら",
+  "explanation": "Used when the condition is a topic already raised, or for giving advice.",
+  "examples": [
+   {
+    "jp": "京都に行くなら、この寺がいいですよ。",
+    "kana": "きょうとにいくなら、このてらがいいですよ。",
+    "romaji": "Kyoto ni iku nara, kono tera ga ii desu yo.",
+    "en": "If you're going to Kyoto, this temple is good."
+   }
+  ],
+  "category": "general",
+  "id": "g030"
+ },
+ {
+  "level": "N4",
+  "title": "ても / でも — even if / even though",
+  "pattern": "Verb-ても · い-adj でも",
+  "explanation": "Concessive: the result holds even under the stated condition.",
+  "examples": [
+   {
+    "jp": "雨が降っても、行きます。",
+    "kana": "あめがふっても、いきます。",
+    "romaji": "Ame ga futte mo, ikimasu.",
+    "en": "Even if it rains, I'll go."
+   },
+   {
+    "jp": "高くても買います。",
+    "kana": "たかくてもかいます。",
+    "romaji": "Takakute mo kaimasu.",
+    "en": "I'll buy it even if it's expensive."
+   }
+  ],
+  "category": "general",
+  "id": "g031"
+ },
+ {
+  "level": "N4",
+  "title": "つもり — intention",
+  "pattern": "Verb-dictionary つもりです",
+  "explanation": "States a planned intention; つもりはありません denies it.",
+  "examples": [
+   {
+    "jp": "来年、日本へ行くつもりです。",
+    "kana": "らいねん、にほんへいくつもりです。",
+    "romaji": "Rainen, Nihon e iku tsumori desu.",
+    "en": "I intend to go to Japan next year."
+   }
+  ],
+  "category": "general",
+  "id": "g032"
+ },
+ {
+  "level": "N4",
+  "title": "ことになる — it has been decided that",
+  "pattern": "Plain clause ことになりました",
+  "explanation": "A decision made by someone else or by circumstances, not the speaker's own choice.",
+  "examples": [
+   {
+    "jp": "来週から試験が始まることになりました。",
+    "kana": "らいしゅうからしけんがはじまることになりました。",
+    "romaji": "Raishuu kara shiken ga hajimaru koto ni narimashita.",
+    "en": "It has been decided that exams start next week."
+   }
+  ],
+  "category": "general",
+  "id": "g033"
+ },
+ {
+  "level": "N4",
+  "title": "ように — so that / in order to",
+  "pattern": "Verb-dictionary ように · Verb-ない ように",
+  "explanation": "Expresses a purpose or a wish/hope for a change.",
+  "examples": [
+   {
+    "jp": "忘れないように、書いておきます。",
+    "kana": "わすれないように、かいておきます。",
+    "romaji": "Wasurenai you ni, kaite okimasu.",
+    "en": "I'll write it down so I don't forget."
+   }
+  ],
+  "category": "general",
+  "id": "g034"
+ },
+ {
+  "level": "N4",
+  "title": "おかげで / せいで — thanks to / because of",
+  "pattern": "Noun の おかげで · Noun の せいで",
+  "explanation": "おかげで is positive ('thanks to'); せいで is negative ('because of (something bad)').",
+  "examples": [
+   {
+    "jp": "先生のおかげで、合格しました。",
+    "kana": "せんせいのおかげで、ごうかくしました。",
+    "romaji": "Sensei no okage de, goukaku shimashita.",
+    "en": "Thanks to my teacher, I passed."
+   },
+   {
+    "jp": "寝坊のせいで、遅刻しました。",
+    "kana": "ねぼうのせいで、ちこくしました。",
+    "romaji": "Nebou no sei de, chikoku shimashita.",
+    "en": "Because I overslept, I was late."
+   }
+  ],
+  "category": "general",
+  "id": "g035"
+ },
+ {
+  "level": "N4",
+  "title": "てから — after doing",
+  "pattern": "Verb-て から",
+  "explanation": "Marks a clear sequence: \"after doing A, do B\".",
+  "examples": [
+   {
+    "jp": "手を洗ってから、食べましょう。",
+    "kana": "てをあらってから、たべましょう。",
+    "romaji": "Te o aratte kara, tabemashou.",
+    "en": "Let's eat after washing our hands."
+   }
+  ],
+  "category": "general",
+  "id": "g036"
+ },
+ {
+  "level": "N3",
+  "title": "にもかかわらず — despite",
+  "pattern": "Plain clause にもかかわらず",
+  "explanation": "Strong contrast: an unexpected result despite the preceding situation.",
+  "examples": [
+   {
+    "jp": "一生懸命勉強したにもかかわらず、失敗しました。",
+    "kana": "いっしょうけんめいべんきょうしたにもかかわらず、しっぱいしました。",
+    "romaji": "Isshoukenmei benkyou shita ni mo kakawarazu, shippai shimashita.",
+    "en": "Despite studying hard, I failed."
+   }
+  ],
+  "category": "general",
+  "id": "g037"
+ },
+ {
+  "level": "N3",
+  "title": "ものの — although",
+  "pattern": "Plain clause ものの",
+  "explanation": "Like が but more formal; often followed by a disappointing or contrasting result.",
+  "examples": [
+   {
+    "jp": "外国語は好きなものの、話すのは苦手です。",
+    "kana": "がいこくごはすきなものの、はなすのはにがてです。",
+    "romaji": "Gaikokugo wa suki na mono no, hanasu no wa nigate desu.",
+    "en": "I like foreign languages, but I'm weak at speaking them."
+   }
+  ],
+  "category": "general",
+  "id": "g038"
+ },
+ {
+  "level": "N3",
+  "title": "はず — should be / expected",
+  "pattern": "Plain clause はずです",
+  "explanation": "A logical expectation based on evidence; はずがありません means 'impossible'.",
+  "examples": [
+   {
+    "jp": "彼はもう着いているはずです。",
+    "kana": "かれはもうついているはずです。",
+    "romaji": "Kare wa mou tsuite iru hazu desu.",
+    "en": "He should have arrived by now."
+   }
+  ],
+  "category": "general",
+  "id": "g039"
+ },
+ {
+  "level": "N3",
+  "title": "べき — should (morally)",
+  "pattern": "Verb-dictionary べきです",
+  "explanation": "Stronger than ほうがいい: what one ought to do.",
+  "examples": [
+   {
+    "jp": "約束は守るべきです。",
+    "kana": "やくそくはまもるべきです。",
+    "romaji": "Yakusoku wa mamoru beki desu.",
+    "en": "You should keep your promises."
+   }
+  ],
+  "category": "general",
+  "id": "g040"
+ },
+ {
+  "level": "N3",
+  "title": "ようとする — be about to / try to",
+  "pattern": "Verb-(よ)う とする",
+  "explanation": "Describes an attempt or something just about to happen.",
+  "examples": [
+   {
+    "jp": "ドアを開けようとしました。",
+    "kana": "ドアをあけようとしました。",
+    "romaji": "Doa o akeyou to shimashita.",
+    "en": "I tried to open the door."
+   }
+  ],
+  "category": "general",
+  "id": "g041"
+ },
+ {
+  "level": "N3",
+  "title": "おそれがある — there is a risk of",
+  "pattern": "Verb-dictionary / Noun の おそれがある",
+  "explanation": "Used for negative possibilities such as danger or failure.",
+  "examples": [
+   {
+    "jp": "大雨になるおそれがあります。",
+    "kana": "おおあめになるおそれがあります。",
+    "romaji": "Ooame ni naru osore ga arimasu.",
+    "en": "There is a risk of heavy rain."
+   }
+  ],
+  "category": "general",
+  "id": "g042"
+ },
+ {
+  "level": "N3",
+  "title": "にとって — from the viewpoint of",
+  "pattern": "Noun にとって",
+  "explanation": "Marks the person or group for whom something has a certain meaning.",
+  "examples": [
+   {
+    "jp": "学生にとって、試験は大変です。",
+    "kana": "がくせいにとって、しけんはたいへんです。",
+    "romaji": "Gakusei ni totte, shiken wa taihen desu.",
+    "en": "For students, exams are tough."
+   }
+  ],
+  "category": "general",
+  "id": "g043"
+ },
+ {
+  "level": "N3",
+  "title": "を通じて — throughout / through",
+  "pattern": "Noun を通じて",
+  "explanation": "Means 'throughout a period' or 'by means of a channel'.",
+  "examples": [
+   {
+    "jp": "一年を通じて勉強しています。",
+    "kana": "いちねんをとおじてべんきょうしています。",
+    "romaji": "Ichinen o tooshite benkyou shite imasu.",
+    "en": "I study throughout the year."
+   }
+  ],
+  "category": "general",
+  "id": "g044"
+ },
+ {
+  "level": "N3",
+  "title": "たびに — every time",
+  "pattern": "Verb-dictionary / Noun の たびに",
+  "explanation": "An action repeats each time the condition occurs.",
+  "examples": [
+   {
+    "jp": "この歌を聞くたびに、日本を思い出します。",
+    "kana": "このうたをきくたびに、にほんをおもいだします。",
+    "romaji": "Kono uta o kiku tabi ni, Nihon o omoidashimasu.",
+    "en": "Every time I hear this song, I think of Japan."
+   }
+  ],
+  "category": "general",
+  "id": "g045"
+ },
+ {
+  "level": "N3",
+  "title": "かねない — could well / may possibly",
+  "pattern": "Verb-stem かねない",
+  "explanation": "A negative outcome is quite possible; mostly used with bad results.",
+  "examples": [
+   {
+    "jp": "無理をすると、病気になりかねません。",
+    "kana": "むりをすると、びょうきになりかねません。",
+    "romaji": "Muri o suru to, byouki ni narikanemasen.",
+    "en": "Overdoing it could make you ill."
+   }
+  ],
+  "category": "general",
+  "id": "g046"
+ },
+ {
+  "level": "N3",
+  "title": "わけではない — it's not that …",
+  "pattern": "Plain clause わけではありません",
+  "explanation": "Partially denies an assumption: 'it's not that/it doesn't mean that'.",
+  "examples": [
+   {
+    "jp": "日本語が話せないわけではありません。",
+    "kana": "にほんごがはなせないわけではありません。",
+    "romaji": "Nihongo ga hanasenai wake de wa arimasen.",
+    "en": "It's not that I can't speak Japanese."
+   }
+  ],
+  "category": "general",
+  "id": "g047"
+ },
+ {
+  "level": "N3",
+  "title": "とは限らない — not necessarily",
+  "pattern": "Plain clause とは限りません",
+  "explanation": "States that something is not always true.",
+  "examples": [
+   {
+    "jp": "高いものが良いとは限りません。",
+    "kana": "たかいものがよいとはかぎりません。",
+    "romaji": "Takai mono ga yoi to wa kagirimasen.",
+    "en": "Expensive things aren't necessarily good."
+   }
+  ],
+  "category": "general",
+  "id": "g048"
+ },
+ {
+  "level": "N2",
+  "title": "ものだから — that's because",
+  "pattern": "Plain clause ものだから",
+  "explanation": "Gives a reason, often apologetic or emotionally toned.",
+  "examples": [
+   {
+    "jp": "遅くなってすみません。電車が遅れたものだから。",
+    "kana": "おそくなってすみません。でんしゃがおくれたものだから。",
+    "romaji": "Osoku natte sumimasen. Densha ga okureta mono dakara.",
+    "en": "Sorry I'm late; it's because the train was delayed."
+   }
+  ],
+  "category": "general",
+  "id": "g049"
+ },
+ {
+  "level": "N2",
+  "title": "だけあって — exactly because / as expected",
+  "pattern": "Noun / plain clause だけあって",
+  "explanation": "A positive result is unsurprising given the subject's quality or experience.",
+  "examples": [
+   {
+    "jp": "彼はプロだけあって、上手です。",
+    "kana": "かれはプロだけあって、じょうずです。",
+    "romaji": "Kare wa puro dake atte, jouzu desu.",
+    "en": "As expected of a professional, he is skilled."
+   }
+  ],
+  "category": "general",
+  "id": "g050"
+ },
+ {
+  "level": "N2",
+  "title": "ならでは — only / unique to",
+  "pattern": "Noun ならではの",
+  "explanation": "Highlights something distinctive to a particular person, place or time.",
+  "examples": [
+   {
+    "jp": "京都ならではの景色です。",
+    "kana": "きょうとならではのけしきです。",
+    "romaji": "Kyoto nara dewa no keshiki desu.",
+    "en": "This is a view unique to Kyoto."
+   }
+  ],
+  "category": "general",
+  "id": "g051"
+ },
+ {
+  "level": "N2",
+  "title": "はおろか — let alone",
+  "pattern": "Noun はおろか",
+  "explanation": "The first item is set aside; the second is even more extreme. Pattern: A はおろか B も/まで.",
+  "examples": [
+   {
+    "jp": "彼は英語はおろか、日本語も話せません。",
+    "kana": "かれはえいごはおろか、にほんごもはなせません。",
+    "romaji": "Kare wa eigo wa oroka, Nihongo mo hanasemasen.",
+    "en": "He can't speak English, let alone Japanese."
+   }
+  ],
+  "category": "general",
+  "id": "g052"
+ },
+ {
+  "level": "N2",
+  "title": "ずにはいられない — can't help doing",
+  "pattern": "Verb-ない stem ずにはいられない",
+  "explanation": "An irresistible feeling or impulse.",
+  "examples": [
+   {
+    "jp": "その話を聞くと、笑わずにはいられません。",
+    "kana": "そのはなしをきくと、わらわずにはいられません。",
+    "romaji": "Sono hanashi o kiku to, warawazu ni wa iraremasen.",
+    "en": "When I hear that story, I can't help laughing."
+   }
+  ],
+  "category": "general",
+  "id": "g053"
+ },
+ {
+  "level": "N2",
+  "title": "ゆえに — therefore / because of",
+  "pattern": "Noun ゆえに · Plain clause ゆえに",
+  "explanation": "Formal written reason: 'for that reason'.",
+  "examples": [
+   {
+    "jp": "彼は経験不足ゆえに、失敗しました。",
+    "kana": "かれはけいけんふそくゆえに、しっぱいしました。",
+    "romaji": "Kare wa keiken fusoku yue ni, shippai shimashita.",
+    "en": "He failed because of his lack of experience."
+   }
+  ],
+  "category": "general",
+  "id": "g054"
+ },
+ {
+  "level": "N2",
+  "title": "といえども — even though / even a",
+  "pattern": "Noun といえども",
+  "explanation": "Formal concessive; often with a negative or surprising result.",
+  "examples": [
+   {
+    "jp": "どんなに忙しいといえども、休むべきです。",
+    "kana": "どんなにいそがしいといえども、やすむべきです。",
+    "romaji": "Donna ni isogashii to ie domo, yasumu beki desu.",
+    "en": "However busy you are, you should rest."
+   }
+  ],
+  "category": "general",
+  "id": "g055"
+ },
+ {
+  "level": "N2",
+  "title": "きらいがある — has a tendency to",
+  "pattern": "Verb-dictionary / Noun の きらいがある",
+  "explanation": "Points out an undesirable tendency.",
+  "examples": [
+   {
+    "jp": "彼は物事を悲観するきらいがあります。",
+    "kana": "かれはものごとをひかんするきらいがあります。",
+    "romaji": "Kare wa monogoto o hikan suru kirai ga arimasu.",
+    "en": "He has a tendency to be pessimistic."
+   }
+  ],
+  "category": "general",
+  "id": "g056"
+ },
+ {
+  "level": "N2",
+  "title": "ぬきで — without / excluding",
+  "pattern": "Noun ぬきで",
+  "explanation": "Leaving something out, or doing something without the usual element.",
+  "examples": [
+   {
+    "jp": "準備ぬきで試験を受けました。",
+    "kana": "じゅんびぬきでしけんをうけました。",
+    "romaji": "Junbi nuki de shiken o ukemashita.",
+    "en": "I took the exam without preparation."
+   }
+  ],
+  "category": "general",
+  "id": "g057"
+ },
+ {
+  "level": "N2",
+  "title": "たるもの — one who is / should",
+  "pattern": "Noun たるもの",
+  "explanation": "Formal: 'as a … one should …', often used for ideals and duties.",
+  "examples": [
+   {
+    "jp": "学生たるもの、勉強するべきです。",
+    "kana": "がくせいたるもの、べんきょうするべきです。",
+    "romaji": "Gakusei taru mono, benkyou suru beki desu.",
+    "en": "As a student, one should study."
+   }
+  ],
+  "category": "general",
+  "id": "g058"
+ }
+]

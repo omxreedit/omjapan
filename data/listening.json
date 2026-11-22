@@ -1,0 +1,170 @@
+[
+ {
+  "id": "ls01",
+  "jp": "行きましょう。",
+  "kana": "いきましょう。",
+  "en": "Let's go.",
+  "question": "What did you hear?",
+  "options": [
+   "They will go",
+   "Let's go",
+   "They went",
+   "Don't go"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "ls02",
+  "jp": "今日は雨が降っています。",
+  "kana": "きょうはあめがふっています。",
+  "en": "It is raining today.",
+  "question": "What did you hear?",
+  "options": [
+   "It rained yesterday",
+   "It is raining today",
+   "It will snow",
+   "It is sunny"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "ls03",
+  "jp": "駅はどこですか。",
+  "kana": "えきはどこですか。",
+  "en": "Where is the station?",
+  "question": "What did you hear?",
+  "options": [
+   "Where is the station?",
+   "What time is it?",
+   "How much is it?",
+   "Who is she?"
+  ],
+  "answer": 0
+ },
+ {
+  "id": "ls04",
+  "jp": "コーヒーを一杯ください。",
+  "kana": "コーヒーをいっぱいください。",
+  "en": "One coffee, please.",
+  "question": "What did you hear?",
+  "options": [
+   "One tea, please",
+   "One coffee, please",
+   "One water, please",
+   "One book, please"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "ls05",
+  "jp": "名前は何ですか。",
+  "kana": "なまえはなんですか。",
+  "en": "What is your name?",
+  "question": "What did you hear?",
+  "options": [
+   "What is your name?",
+   "How are you?",
+   "Where are you from?",
+   "What time is it?"
+  ],
+  "answer": 0
+ },
+ {
+  "id": "ls06",
+  "jp": "インドから来ました。",
+  "kana": "インドからきました。",
+  "en": "I came from India.",
+  "question": "What did you hear?",
+  "options": [
+   "I came from Japan",
+   "I came from India",
+   "I study in India",
+   "I live in Japan"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "ls07",
+  "jp": "本を読んでいます。",
+  "kana": "ほんをよんでいます。",
+  "en": "I am reading a book.",
+  "question": "What did you hear?",
+  "options": [
+   "I read a book yesterday",
+   "I am reading a book",
+   "I will buy a book",
+   "I don't read books"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "ls08",
+  "jp": "明日は試験です。",
+  "kana": "あしたはしけんです。",
+  "en": "The exam is tomorrow.",
+  "question": "What did you hear?",
+  "options": [
+   "The exam is today",
+   "The exam is tomorrow",
+   "The exam was yesterday",
+   "There is no exam"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "ls09",
+  "jp": "嬉しいです。",
+  "kana": "うれしいです。",
+  "en": "I am happy.",
+  "question": "What did you hear?",
+  "options": [
+   "I am sad",
+   "I am angry",
+   "I am happy",
+   "I am tired"
+  ],
+  "answer": 2
+ },
+ {
+  "id": "ls10",
+  "jp": "日本語を勉強しています。",
+  "kana": "にほんごをべんきょうしています。",
+  "en": "I am studying Japanese.",
+  "question": "What did you hear?",
+  "options": [
+   "I am studying English",
+   "I am studying Japanese",
+   "I teach Japanese",
+   "I speak only Hindi"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "ls11",
+  "jp": "数字を書いてください。",
+  "kana": "すうじをかいてください。",
+  "en": "Please write the number.",
+  "question": "What did you hear?",
+  "options": [
+   "Please read the number",
+   "Please write the number",
+   "Please say your name",
+   "Please open the door"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "ls12",
+  "jp": "飛行機で行きます。",
+  "kana": "ひこうきでいきます。",
+  "en": "I will go by plane.",
+  "question": "What did you hear?",
+  "options": [
+   "I will go by train",
+   "I will go by bus",
+   "I will go by plane",
+   "I will walk"
+  ],
+  "answer": 2
+ }
+]

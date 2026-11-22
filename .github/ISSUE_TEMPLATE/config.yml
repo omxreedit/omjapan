@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security issue
+    url: https://github.com/omxreedit/omjapan/security/advisories/new
+    about: Report security concerns privately.
+  - name: Project questions
+    url: https://github.com/omxreedit/omjapan/discussions
+    about: Ask questions and share offline-first learning ideas.

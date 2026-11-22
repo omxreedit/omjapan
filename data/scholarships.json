@@ -1,0 +1,324 @@
+[
+  {
+    "id": "mext-2027-undergraduate-embassy",
+    "title": "JAPANESE GOVERNMENT (MEXT) SCHOLARSHIP FOR 2027 (UNDERGRADUATE STUDENTS) (EMBASSY RECOMMENDATION)",
+    "program": "Japanese Government (MEXT) Scholarship, Undergraduate Students, FY2027 Embassy Recommendation",
+    "institution": "Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan",
+    "countryEligibility": "International students screened and recommended by Japanese diplomatic missions in their own country; Indian nationals apply through the Embassy/Consulates of Japan in India.",
+    "category": "mext-undergraduate",
+    "publishedDate": null,
+    "deadline": null,
+    "status": "DEADLINE UNKNOWN",
+    "summary": "Official MEXT FY2027 recruitment page with the English application guidelines for undergraduate embassy recommendation. The guidelines require submission to the Japanese diplomatic mission by its designated deadline and give no single MEXT-wide date, so applicants must confirm the date locally; official program page, check the source for the current cycle.",
+    "sourceUrl": "https://www.mext.go.jp/a_menu/koutou/ryugaku/boshu/1415354_00011.htm",
+    "verifiedOn": "2026-11-22",
+    "evidence": [
+      "https://www.mext.go.jp/a_menu/koutou/ryugaku/boshu/1415354_00011.htm",
+      "https://www.mext.go.jp/content/20260420-mxt-kotokoku01-000049232_02.pdf",
+      "https://www.mext.go.jp/a_menu/koutou/ryugaku/boshu/1330944.htm"
+    ]
+  },
+  {
+    "id": "mext-2027-research-embassy",
+    "title": "JAPANESE GOVERNMENT (MEXT) SCHOLARSHIP FOR 2027 (RESEARCH STUDENTS)",
+    "program": "Japanese Government (MEXT) Scholarship, Research Students, FY2027 Embassy Recommendation",
+    "institution": "Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan",
+    "countryEligibility": "International graduate-level researchers recommended by Japanese diplomatic missions; Indian nationals apply via the Embassy/Consulates of Japan in India.",
+    "category": "mext-research",
+    "publishedDate": null,
+    "deadline": null,
+    "status": "DEADLINE UNKNOWN",
+    "summary": "Official MEXT FY2027 recruitment page listing the research-student application guidelines and forms. The English guidelines explicitly say the application-document deadline varies according to each Japanese diplomatic mission and must be confirmed locally; official program page, check the source for the current cycle.",
+    "sourceUrl": "https://www.mext.go.jp/a_menu/koutou/ryugaku/boshu/1415352_00008.htm",
+    "verifiedOn": "2026-11-22",
+    "evidence": [
+      "https://www.mext.go.jp/a_menu/koutou/ryugaku/boshu/1415352_00008.htm",
+      "https://www.mext.go.jp/content/20260420-mxt-kotokoku01-000049243_02.pdf"
+    ]
+  },
+  {
+    "id": "mext-2027-college-of-technology-embassy",
+    "title": "JAPANESE GOVERNMENT (MEXT) SCHOLARSHIP FOR 2027 (COLLEGE OF TECHNOLOGY (KOSEN) STUDENTS)",
+    "program": "Japanese Government (MEXT) Scholarship, College of Technology (Kosen) Students, FY2027 Embassy Recommendation",
+    "institution": "Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan",
+    "countryEligibility": "International students recommended by Japanese diplomatic missions in their country of nationality; includes Indian nationals where the mission offers this category.",
+    "category": "mext-college-tech",
+    "publishedDate": null,
+    "deadline": null,
+    "status": "DEADLINE UNKNOWN",
+    "summary": "Official MEXT FY2027 recruitment page for the College of Technology (Kosen) scholarship category, with the English application guidelines linked. The guidelines require submission to the Japanese diplomatic mission by its designated deadline and give no single MEXT-wide date; official program page, check the source for the current cycle.",
+    "sourceUrl": "https://www.mext.go.jp/a_menu/koutou/ryugaku/boshu/1415354_00011.htm",
+    "verifiedOn": "2026-11-22",
+    "evidence": [
+      "https://www.mext.go.jp/a_menu/koutou/ryugaku/boshu/1415354_00011.htm",
+      "https://www.mext.go.jp/content/20260420-mxt-kotokoku01-000049232_06.pdf"
+    ]
+  },
+  {
+    "id": "mext-2027-specialized-training-college-embassy",
+    "title": "JAPANESE GOVERNMENT (MEXT) SCHOLARSHIP FOR 2027 (SPECIALIZED TRAINING COLLEGE STUDENTS)",
+    "program": "Japanese Government (MEXT) Scholarship, Specialized Training College Students, FY2027 Embassy Recommendation",
+    "institution": "Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan",
+    "countryEligibility": "International students recommended by Japanese diplomatic missions in their country of nationality; includes Indian nationals where the mission offers this category.",
+    "category": "mext-specialized",
+    "publishedDate": null,
+    "deadline": null,
+    "status": "DEADLINE UNKNOWN",
+    "summary": "Official MEXT FY2027 recruitment page for the specialized training college (senmon gakko) category, with English guidelines and application forms. The guidelines require submission to the Japanese diplomatic mission by its designated deadline and give no single MEXT-wide date; official program page, check the source for the current cycle.",
+    "sourceUrl": "https://www.mext.go.jp/a_menu/koutou/ryugaku/boshu/1415354_00011.htm",
+    "verifiedOn": "2026-11-22",
+    "evidence": [
+      "https://www.mext.go.jp/a_menu/koutou/ryugaku/boshu/1415354_00011.htm",
+      "https://www.mext.go.jp/content/20260420-mxt-kotokoku01-000049232_10.pdf"
+    ]
+  },
+  {
+    "id": "mext-scholarship-overview",
+    "title": "Japanese Government (MEXT) Scholarship",
+    "program": "Japanese Government (Monbukagakusho: MEXT) Scholarship",
+    "institution": "MEXT / JASSO Study in Japan official information site",
+    "countryEligibility": "International students; availability of categories varies by country and is confirmed by the Japanese embassy or accepting university.",
+    "category": "government",
+    "publishedDate": null,
+    "deadline": null,
+    "status": null,
+    "summary": "Official overview of the seven MEXT scholarship categories, eligibility and the two application routes (embassy recommendation and university recommendation). It states that the latest application guidelines must be checked; official program page, check the source for the current cycle.",
+    "sourceUrl": "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/",
+    "verifiedOn": "2026-11-22",
+    "evidence": [
+      "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/",
+      "https://www.mext.go.jp/a_menu/koutou/ryugaku/06032818.htm"
+    ]
+  },
+  {
+    "id": "mext-university-recommendation",
+    "title": "Japanese Government (MEXT) Scholarship - University Recommendation",
+    "program": "MEXT Scholarship (University Recommendation route)",
+    "institution": "MEXT / JASSO Study in Japan official information site",
+    "countryEligibility": "International students at overseas partner institutions of a MEXT-approved Japanese university; Indian students must check whether their target university holds a recommendation quota.",
+    "category": "mext-undergraduate",
+    "publishedDate": null,
+    "deadline": null,
+    "status": null,
+    "summary": "Official description of the university-recommendation route for Research, Undergraduate, Japanese Studies and College of Technology categories. Requirements and deadlines are set by each accepting Japanese university; official program page, check the source for the current cycle.",
+    "sourceUrl": "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/",
+    "verifiedOn": "2026-11-22",
+    "evidence": [
+      "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/",
+      "https://www.jasso.go.jp/en/ryugaku/scholarship_j/kokuhi.html"
+    ]
+  },
+  {
+    "id": "mext-young-leaders-program",
+    "title": "Young Leaders Program (YLP) students",
+    "program": "Japanese Government (MEXT) Scholarship - Young Leaders Program",
+    "institution": "MEXT / JASSO Study in Japan official information site",
+    "countryEligibility": "Young public administrators and graduates with practical work experience from countries eligible through official overseas recommending organisations; not available by embassy recommendation.",
+    "category": "government",
+    "publishedDate": null,
+    "deadline": null,
+    "status": null,
+    "summary": "Official MEXT category for a one-year master's course, for applicants under 40 in principle who are nominated by official overseas recommending organisations. The source lists no current application dates; official program page, check the source for the current cycle.",
+    "sourceUrl": "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/",
+    "verifiedOn": "2026-11-22",
+    "evidence": [
+      "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/",
+      "https://www.mext.go.jp/a_menu/koutou/ryugaku/ylp.htm"
+    ]
+  },
+  {
+    "id": "mext-teacher-training-students",
+    "title": "Teacher training students",
+    "program": "Japanese Government (MEXT) Scholarship - Teacher Training Students",
+    "institution": "MEXT / JASSO Study in Japan official information site",
+    "countryEligibility": "International teachers and teacher-training college graduates recommended by Japanese diplomatic missions; country availability must be checked with the local mission.",
+    "category": "government",
+    "publishedDate": null,
+    "deadline": null,
+    "status": null,
+    "summary": "Official MEXT category for up to 18 months of teacher training at a Japanese university, requiring at least five years of active teaching experience and age under 35. No current-cycle dates are given on the source; official program page, check the source for the current cycle.",
+    "sourceUrl": "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/",
+    "verifiedOn": "2026-11-22",
+    "evidence": [
+      "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/"
+    ]
+  },
+  {
+    "id": "mext-japanese-studies-students",
+    "title": "Japanese studies students",
+    "program": "Japanese Government (MEXT) Scholarship - Japanese Studies Students",
+    "institution": "MEXT / JASSO Study in Japan official information site",
+    "countryEligibility": "International undergraduate students aged 18-29 enrolled in a Japanese language or Japanese culture-related faculty outside Japan, including Indian universities.",
+    "category": "language",
+    "publishedDate": null,
+    "deadline": null,
+    "status": null,
+    "summary": "Official MEXT category for one academic year of study in Japan, open via embassy or university recommendation to undergraduates specialising in Japanese language or culture. No current-cycle dates are given on the source; official program page, check the source for the current cycle.",
+    "sourceUrl": "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/",
+    "verifiedOn": "2026-11-22",
+    "evidence": [
+      "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/"
+    ]
+  },
+  {
+    "id": "jasso-honors-scholarship",
+    "title": "The Monbukagakusho Honors Scholarship for Privately-Financed International Students",
+    "program": "Monbukagakusho Honors Scholarship for Privately Financed International Students",
+    "institution": "Japan Student Services Organization (JASSO)",
+    "countryEligibility": "Privately financed international students enrolled in Japanese institutions with Student residence status; open to students from any country, including India.",
+    "category": "jasso",
+    "publishedDate": null,
+    "deadline": null,
+    "status": null,
+    "summary": "Official JASSO scholarship of JPY48,000 per month (JPY30,000 at Japanese language institutes) for privately financed international students with strong academics and financial need. Applications are made through the enrolled Japanese institution; official program page, check the source for the current cycle.",
+    "sourceUrl": "https://www.jasso.go.jp/en/ryugaku/scholarship_j/shoreihi/about.html",
+    "verifiedOn": "2026-11-22",
+    "evidence": [
+      "https://www.jasso.go.jp/en/ryugaku/scholarship_j/shoreihi/about.html",
+      "https://www.studyinjapan.go.jp/en/planning/scholarships/jasso-scholarships/"
+    ]
+  },
+  {
+    "id": "jasso-eju-reservation-november-2026",
+    "title": "Reservation Program for Monbukagakusho Honors Scholarship for Privately-Financed International Students (EJU 2nd Session in November 2026)",
+    "program": "JASSO Reservation Program for Monbukagakusho Honors Scholarship (EJU-based)",
+    "institution": "Japan Student Services Organization (JASSO)",
+    "countryEligibility": "International examinees taking the November 2026 EJU at overseas sites (including India) or in Japan who enrol at a Japanese undergraduate institution, junior college, college of technology or specialized training college.",
+    "category": "jasso",
+    "publishedDate": null,
+    "deadline": null,
+    "status": null,
+    "summary": "Official JASSO session page for the EJU November 2026 reservation route, with a JPY48,000 monthly stipend for high-scoring examinees who later enrol in Japan. Selection is by EJU result and application is made through the EJU application form; the page states no separate scholarship deadline.",
+    "sourceUrl": "https://www.jasso.go.jp/en/ryugaku/scholarship_j/shoreihi/yoyaku_eju/202611.html",
+    "verifiedOn": "2026-11-22",
+    "evidence": [
+      "https://www.jasso.go.jp/en/ryugaku/scholarship_j/shoreihi/yoyaku_eju/202611.html",
+      "https://www.jasso.go.jp/en/ryugaku/scholarship_j/shoreihi/yoyaku_eju/index.html"
+    ]
+  },
+  {
+    "id": "student-exchange-support-program",
+    "title": "Student Exchange Support Program (Scholarship for Study in Japan under Agreement)",
+    "program": "JASSO Student Exchange Support Program (Scholarship for Study in Japan under Agreement)",
+    "institution": "Japan Student Services Organization (JASSO)",
+    "countryEligibility": "Students from all countries with diplomatic relations with Japan, including India, who are exchanged under an agreement with a Japanese institution.",
+    "category": "exchange",
+    "publishedDate": null,
+    "deadline": null,
+    "status": null,
+    "summary": "Official JASSO scholarship of JPY80,000 per month for short-term study in Japan (8 days to one year) under a student exchange agreement. Applications are accepted only from the Japanese host institution, so candidates should ask their home and host universities; official program page, check the source for the current cycle.",
+    "sourceUrl": "https://www.jasso.go.jp/en/ryugaku/scholarship_j/ukeire.html",
+    "verifiedOn": "2026-11-22",
+    "evidence": [
+      "https://www.jasso.go.jp/en/ryugaku/scholarship_j/ukeire.html",
+      "https://www.studyinjapan.go.jp/en/planning/scholarships/jasso-scholarships/"
+    ]
+  },
+  {
+    "id": "mitsui-scholarship-india-2027",
+    "title": "MITSUI & CO. SCHOLARSHIP PROGRAM FOR INDIA in 2027",
+    "program": "Mitsui & Co. Scholarship Program for India",
+    "institution": "Mitsui & Co., Ltd. (announcement published on the JASSO Study in Japan official site)",
+    "countryEligibility": "Outstanding Indian students who aspire to pursue a bachelor's degree at a Japanese university.",
+    "category": "foundation",
+    "publishedDate": "2026-10-16",
+    "deadline": "2026-11-08",
+    "status": "CLOSED",
+    "summary": "Official announcement dated 16 October 2026 for Indian students, covering Japanese language training plus undergraduate study in Japan. The stated application period was 09 October to 08 November 2026, so the deadline has passed as of 22 November 2026.",
+    "sourceUrl": "https://www.studyinjapan.go.jp/en/news/2610161600.html",
+    "verifiedOn": "2026-11-22",
+    "evidence": [
+      "https://www.studyinjapan.go.jp/en/news/2610161600.html",
+      "https://www.studyinjapan.go.jp/en/news/"
+    ]
+  },
+  {
+    "id": "mitsui-scholarship-india-2026",
+    "title": "MITSUI & CO. SCHOLARSHIP PROGRAM FOR INDIA in 2026",
+    "program": "Mitsui & Co. Scholarship Program for India",
+    "institution": "Mitsui & Co., Ltd. (announcement published on the JASSO Study in Japan official site)",
+    "countryEligibility": "Indian students selected for a 5.5-year programme: 1.5 years of Japanese language training followed by four years of undergraduate study in Japan.",
+    "category": "foundation",
+    "publishedDate": "2026-02-13",
+    "deadline": "2026-02-22",
+    "status": "CLOSED",
+    "summary": "Official announcement dated 13 February 2026 describing the Mitsui scholarship for Indian students. The stated application period was 10-22 February 2026, so the deadline has passed; retained as evidence of the annual cycle.",
+    "sourceUrl": "https://www.studyinjapan.go.jp/en/news/2602131600.html",
+    "verifiedOn": "2026-11-22",
+    "evidence": [
+      "https://www.studyinjapan.go.jp/en/news/2602131600.html",
+      "https://www.studyinjapan.go.jp/en/news/"
+    ]
+  },
+  {
+    "id": "jsps-postdoctoral-standard-fy2027-second",
+    "title": "Postdoctoral Fellowships for Research in Japan (Standard) - FY2027 2nd Recruitment",
+    "program": "JSPS Postdoctoral Fellowships for Research in Japan (Standard)",
+    "institution": "Japan Society for the Promotion of Science (JSPS)",
+    "countryEligibility": "Researchers who are citizens of countries with diplomatic relations with Japan (including India) and have obtained or expect a PhD; application is submitted by a Japanese host institution.",
+    "category": "foundation",
+    "publishedDate": null,
+    "deadline": "2027-04-23",
+    "status": "UPCOMING",
+    "summary": "Official JSPS schedule lists the FY2027 second Open Call deadline as 23 April 2027 (5 p.m. JST), with results in early August 2027. The page also lists the completed first-round deadline of 28 August 2026; official schedule page, check the source for the current cycle.",
+    "sourceUrl": "https://www.jsps.go.jp/english/e-fellow/e-ippan/appliguidelines.html",
+    "verifiedOn": "2026-11-22",
+    "evidence": [
+      "https://www.jsps.go.jp/english/e-fellow/e-ippan/appliguidelines.html",
+      "https://www.jsps.go.jp/english/e-fellow/e-ippan/index.html"
+    ]
+  },
+  {
+    "id": "jsps-invitational-short-term-fy2027-second",
+    "title": "Invitational Fellowships for Research in Japan (Short-term) - FY2027 2nd Recruitment",
+    "program": "JSPS Invitational Fellowships for Research in Japan (Short-term)",
+    "institution": "Japan Society for the Promotion of Science (JSPS)",
+    "countryEligibility": "Overseas researchers who are citizens or permanent residents of countries with diplomatic relations with Japan (including India); application is submitted by a Japanese host institution.",
+    "category": "foundation",
+    "publishedDate": null,
+    "deadline": "2027-04-23",
+    "status": "UPCOMING",
+    "summary": "Official JSPS schedule lists the FY2027 second Short-term recruitment deadline as 23 April 2027 (5 p.m. JST) for 14-60 day research visits. The first recruitment, with a 28 August 2026 deadline, covered both Long-term and Short-term; official schedule page, check the source for the current cycle.",
+    "sourceUrl": "https://www.jsps.go.jp/english/e-inv/application/index.html",
+    "verifiedOn": "2026-11-22",
+    "evidence": [
+      "https://www.jsps.go.jp/english/e-inv/application/index.html",
+      "https://www.jsps.go.jp/english/e-inv/how.html"
+    ]
+  },
+  {
+    "id": "aichi-scholarship-pre-arrival",
+    "title": "Aichi Scholarship Program [Pre-Arrival Admission]",
+    "program": "Aichi Scholarship Program (Pre-Arrival Admission)",
+    "institution": "Aichi Prefectural Government (listed on the JASSO Study in Japan scholarship database)",
+    "countryEligibility": "Applicants must be citizens of and residing in United Nations member states other than Japan and North Korea, which includes India.",
+    "category": "government",
+    "publishedDate": null,
+    "deadline": null,
+    "status": null,
+    "summary": "Official database entry for a JPY150,000-per-month scholarship for master's and graduate research students at universities in Aichi Prefecture, with travel and school expenses covered. The source gives an annual window of late February to mid-May but no year, so no deadline is asserted; check the source for the current cycle.",
+    "sourceUrl": "https://www.studyinjapan.go.jp/en/search-for-scholarships/detail.php?lang=en&mid=5-00014515",
+    "verifiedOn": "2026-11-22",
+    "evidence": [
+      "https://www.studyinjapan.go.jp/en/search-for-scholarships/detail.php?lang=en&mid=5-00014515"
+    ]
+  },
+  {
+    "id": "atsumi-international-foundation-scholarship",
+    "title": "Atsumi International Foundation Scholarship",
+    "program": "Atsumi International Foundation Scholarship",
+    "institution": "Atsumi International Foundation (listed on the JASSO Study in Japan scholarship database)",
+    "countryEligibility": "All regions are eligible; award is for final-year doctoral students at universities in the Kanto or Kinki areas of Japan.",
+    "category": "foundation",
+    "publishedDate": null,
+    "deadline": null,
+    "status": null,
+    "summary": "Official database entry for a JPY250,000-per-month doctoral scholarship, last updated 19 August 2026 on the source page. The source lists an annual application window of 1-20 September without a year, so no deadline is asserted; check the source for the current cycle.",
+    "sourceUrl": "https://www.studyinjapan.go.jp/en/search-for-scholarships/detail.php?lang=en&mid=4-00044379",
+    "verifiedOn": "2026-11-22",
+    "evidence": [
+      "https://www.studyinjapan.go.jp/en/search-for-scholarships/detail.php?lang=en&mid=4-00044379",
+      "https://www.aisf.or.jp/jp/index.php"
+    ]
+  }
+]

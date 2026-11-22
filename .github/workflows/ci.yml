@@ -1,0 +1,46 @@
+name: Checks
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: JavaScript syntax
+        run: |
+          set -e
+          for f in web/js/*.js; do node --check "$f"; done
+
+      - name: Python generator syntax
+        run: python3 -m py_compile tools/*.py
+
+      - name: JSON validity
+        run: |
+          set -e
+          for f in data/*.json; do python3 -m json.tool "$f" >/dev/null; done
+
+      - name: UI and data logic tests
+        run: node --test tests/
+
+      - name: Verify generated files are not tracked
+        run: |
+          set -e
+          test ! -f android/build/unsigned.apk
+          test ! -f android/libs/android.jar
+          test ! -f release/omjapan-1.0.0.apk

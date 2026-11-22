@@ -1,0 +1,2222 @@
+[
+ {
+  "id": "v0001",
+  "word": "私",
+  "kana": "わたし",
+  "romaji": "watashi",
+  "meaning": "I / me",
+  "level": "N5",
+  "category": "people",
+  "example": null
+ },
+ {
+  "id": "v0002",
+  "word": "あなた",
+  "kana": "あなた",
+  "romaji": "anata",
+  "meaning": "you",
+  "level": "N5",
+  "category": "people",
+  "example": null
+ },
+ {
+  "id": "v0003",
+  "word": "彼",
+  "kana": "かれ",
+  "romaji": "kare",
+  "meaning": "he / boyfriend",
+  "level": "N5",
+  "category": "people",
+  "example": null
+ },
+ {
+  "id": "v0004",
+  "word": "彼女",
+  "kana": "かのじょ",
+  "romaji": "kanojo",
+  "meaning": "she / girlfriend",
+  "level": "N5",
+  "category": "people",
+  "example": null
+ },
+ {
+  "id": "v0005",
+  "word": "名前",
+  "kana": "なまえ",
+  "romaji": "namae",
+  "meaning": "name",
+  "level": "N5",
+  "category": "people",
+  "example": null
+ },
+ {
+  "id": "v0006",
+  "word": "人",
+  "kana": "ひと",
+  "romaji": "hito",
+  "meaning": "person",
+  "level": "N5",
+  "category": "people",
+  "example": null
+ },
+ {
+  "id": "v0007",
+  "word": "日本人",
+  "kana": "にほんじん",
+  "romaji": "nihonjin",
+  "meaning": "Japanese person",
+  "level": "N5",
+  "category": "people",
+  "example": null
+ },
+ {
+  "id": "v0008",
+  "word": "学生",
+  "kana": "がくせい",
+  "romaji": "gakusei",
+  "meaning": "student",
+  "level": "N5",
+  "category": "people",
+  "example": null
+ },
+ {
+  "id": "v0009",
+  "word": "先生",
+  "kana": "せんせい",
+  "romaji": "sensei",
+  "meaning": "teacher",
+  "level": "N5",
+  "category": "people",
+  "example": null
+ },
+ {
+  "id": "v0010",
+  "word": "友達",
+  "kana": "ともだち",
+  "romaji": "tomodachi",
+  "meaning": "friend",
+  "level": "N5",
+  "category": "people",
+  "example": null
+ },
+ {
+  "id": "v0011",
+  "word": "家族",
+  "kana": "かぞく",
+  "romaji": "kazoku",
+  "meaning": "family",
+  "level": "N5",
+  "category": "people",
+  "example": null
+ },
+ {
+  "id": "v0012",
+  "word": "父",
+  "kana": "ちち",
+  "romaji": "chichi",
+  "meaning": "father (own)",
+  "level": "N5",
+  "category": "people",
+  "example": null
+ },
+ {
+  "id": "v0013",
+  "word": "母",
+  "kana": "はは",
+  "romaji": "haha",
+  "meaning": "mother (own)",
+  "level": "N5",
+  "category": "people",
+  "example": null
+ },
+ {
+  "id": "v0014",
+  "word": "兄",
+  "kana": "あに",
+  "romaji": "ani",
+  "meaning": "older brother (own)",
+  "level": "N5",
+  "category": "people",
+  "example": null
+ },
+ {
+  "id": "v0015",
+  "word": "姉",
+  "kana": "あね",
+  "romaji": "ane",
+  "meaning": "older sister (own)",
+  "level": "N5",
+  "category": "people",
+  "example": null
+ },
+ {
+  "id": "v0016",
+  "word": "弟",
+  "kana": "おとうと",
+  "romaji": "otouto",
+  "meaning": "younger brother",
+  "level": "N5",
+  "category": "people",
+  "example": null
+ },
+ {
+  "id": "v0017",
+  "word": "妹",
+  "kana": "いもうと",
+  "romaji": "imouto",
+  "meaning": "younger sister",
+  "level": "N5",
+  "category": "people",
+  "example": null
+ },
+ {
+  "id": "v0018",
+  "word": "子供",
+  "kana": "こども",
+  "romaji": "kodomo",
+  "meaning": "child",
+  "level": "N5",
+  "category": "people",
+  "example": null
+ },
+ {
+  "id": "v0019",
+  "word": "学校",
+  "kana": "がっこう",
+  "romaji": "gakkou",
+  "meaning": "school",
+  "level": "N5",
+  "category": "places",
+  "example": null
+ },
+ {
+  "id": "v0020",
+  "word": "大学",
+  "kana": "だいがく",
+  "romaji": "daigaku",
+  "meaning": "university",
+  "level": "N5",
+  "category": "places",
+  "example": null
+ },
+ {
+  "id": "v0021",
+  "word": "会社",
+  "kana": "かいしゃ",
+  "romaji": "kaisha",
+  "meaning": "company",
+  "level": "N5",
+  "category": "places",
+  "example": null
+ },
+ {
+  "id": "v0022",
+  "word": "家",
+  "kana": "いえ",
+  "romaji": "ie",
+  "meaning": "house / home",
+  "level": "N5",
+  "category": "places",
+  "example": null
+ },
+ {
+  "id": "v0023",
+  "word": "部屋",
+  "kana": "へや",
+  "romaji": "heya",
+  "meaning": "room",
+  "level": "N5",
+  "category": "places",
+  "example": null
+ },
+ {
+  "id": "v0024",
+  "word": "駅",
+  "kana": "えき",
+  "romaji": "eki",
+  "meaning": "station",
+  "level": "N5",
+  "category": "places",
+  "example": null
+ },
+ {
+  "id": "v0025",
+  "word": "店",
+  "kana": "みせ",
+  "romaji": "mise",
+  "meaning": "shop / store",
+  "level": "N5",
+  "category": "places",
+  "example": null
+ },
+ {
+  "id": "v0026",
+  "word": "日本",
+  "kana": "にほん",
+  "romaji": "nihon",
+  "meaning": "Japan",
+  "level": "N5",
+  "category": "places",
+  "example": null
+ },
+ {
+  "id": "v0027",
+  "word": "日本語",
+  "kana": "にほんご",
+  "romaji": "nihongo",
+  "meaning": "Japanese language",
+  "level": "N5",
+  "category": "study",
+  "example": null
+ },
+ {
+  "id": "v0028",
+  "word": "英語",
+  "kana": "えいご",
+  "romaji": "eigo",
+  "meaning": "English language",
+  "level": "N5",
+  "category": "study",
+  "example": null
+ },
+ {
+  "id": "v0029",
+  "word": "言葉",
+  "kana": "ことば",
+  "romaji": "kotoba",
+  "meaning": "word / language",
+  "level": "N5",
+  "category": "study",
+  "example": null
+ },
+ {
+  "id": "v0030",
+  "word": "本",
+  "kana": "ほん",
+  "romaji": "hon",
+  "meaning": "book",
+  "level": "N5",
+  "category": "study",
+  "example": null
+ },
+ {
+  "id": "v0031",
+  "word": "新聞",
+  "kana": "しんぶん",
+  "romaji": "shimbun",
+  "meaning": "newspaper",
+  "level": "N5",
+  "category": "study",
+  "example": null
+ },
+ {
+  "id": "v0032",
+  "word": "手紙",
+  "kana": "てがみ",
+  "romaji": "tegami",
+  "meaning": "letter",
+  "level": "N5",
+  "category": "study",
+  "example": null
+ },
+ {
+  "id": "v0033",
+  "word": "鉛筆",
+  "kana": "えんぴつ",
+  "romaji": "enpitsu",
+  "meaning": "pencil",
+  "level": "N5",
+  "category": "study",
+  "example": null
+ },
+ {
+  "id": "v0034",
+  "word": "机",
+  "kana": "つくえ",
+  "romaji": "tsukue",
+  "meaning": "desk",
+  "level": "N5",
+  "category": "objects",
+  "example": null
+ },
+ {
+  "id": "v0035",
+  "word": "椅子",
+  "kana": "いす",
+  "romaji": "isu",
+  "meaning": "chair",
+  "level": "N5",
+  "category": "objects",
+  "example": null
+ },
+ {
+  "id": "v0036",
+  "word": "ドア",
+  "kana": "ドア",
+  "romaji": "doa",
+  "meaning": "door",
+  "level": "N5",
+  "category": "objects",
+  "example": null
+ },
+ {
+  "id": "v0037",
+  "word": "窓",
+  "kana": "まど",
+  "romaji": "mado",
+  "meaning": "window",
+  "level": "N5",
+  "category": "objects",
+  "example": null
+ },
+ {
+  "id": "v0038",
+  "word": "水",
+  "kana": "みず",
+  "romaji": "mizu",
+  "meaning": "water",
+  "level": "N5",
+  "category": "food",
+  "example": null
+ },
+ {
+  "id": "v0039",
+  "word": "お茶",
+  "kana": "おちゃ",
+  "romaji": "ocha",
+  "meaning": "tea",
+  "level": "N5",
+  "category": "food",
+  "example": null
+ },
+ {
+  "id": "v0040",
+  "word": "コーヒー",
+  "kana": "コーヒー",
+  "romaji": "koohii",
+  "meaning": "coffee",
+  "level": "N5",
+  "category": "food",
+  "example": null
+ },
+ {
+  "id": "v0041",
+  "word": "牛乳",
+  "kana": "ぎゅうにゅう",
+  "romaji": "gyuunyuu",
+  "meaning": "milk",
+  "level": "N5",
+  "category": "food",
+  "example": null
+ },
+ {
+  "id": "v0042",
+  "word": "ご飯",
+  "kana": "ごはん",
+  "romaji": "gohan",
+  "meaning": "rice / meal",
+  "level": "N5",
+  "category": "food",
+  "example": null
+ },
+ {
+  "id": "v0043",
+  "word": "パン",
+  "kana": "パン",
+  "romaji": "pan",
+  "meaning": "bread",
+  "level": "N5",
+  "category": "food",
+  "example": null
+ },
+ {
+  "id": "v0044",
+  "word": "肉",
+  "kana": "にく",
+  "romaji": "niku",
+  "meaning": "meat",
+  "level": "N5",
+  "category": "food",
+  "example": null
+ },
+ {
+  "id": "v0045",
+  "word": "魚",
+  "kana": "さかな",
+  "romaji": "sakana",
+  "meaning": "fish",
+  "level": "N5",
+  "category": "food",
+  "example": null
+ },
+ {
+  "id": "v0046",
+  "word": "野菜",
+  "kana": "やさい",
+  "romaji": "yasai",
+  "meaning": "vegetables",
+  "level": "N5",
+  "category": "food",
+  "example": null
+ },
+ {
+  "id": "v0047",
+  "word": "りんご",
+  "kana": "りんご",
+  "romaji": "ringo",
+  "meaning": "apple",
+  "level": "N5",
+  "category": "food",
+  "example": null
+ },
+ {
+  "id": "v0048",
+  "word": "バナナ",
+  "kana": "バナナ",
+  "romaji": "banana",
+  "meaning": "banana",
+  "level": "N5",
+  "category": "food",
+  "example": null
+ },
+ {
+  "id": "v0049",
+  "word": "卵",
+  "kana": "たまご",
+  "romaji": "tamago",
+  "meaning": "egg",
+  "level": "N5",
+  "category": "food",
+  "example": null
+ },
+ {
+  "id": "v0050",
+  "word": "食べ物",
+  "kana": "たべもの",
+  "romaji": "tabemono",
+  "meaning": "food",
+  "level": "N5",
+  "category": "food",
+  "example": null
+ },
+ {
+  "id": "v0051",
+  "word": "大きい",
+  "kana": "おおきい",
+  "romaji": "ookii",
+  "meaning": "big / large",
+  "level": "N5",
+  "category": "adjectives",
+  "example": null
+ },
+ {
+  "id": "v0052",
+  "word": "小さい",
+  "kana": "ちいさい",
+  "romaji": "chiisai",
+  "meaning": "small",
+  "level": "N5",
+  "category": "adjectives",
+  "example": null
+ },
+ {
+  "id": "v0053",
+  "word": "新しい",
+  "kana": "あたらしい",
+  "romaji": "atarashii",
+  "meaning": "new",
+  "level": "N5",
+  "category": "adjectives",
+  "example": null
+ },
+ {
+  "id": "v0054",
+  "word": "古い",
+  "kana": "ふるい",
+  "romaji": "furui",
+  "meaning": "old",
+  "level": "N5",
+  "category": "adjectives",
+  "example": null
+ },
+ {
+  "id": "v0055",
+  "word": "高い",
+  "kana": "たかい",
+  "romaji": "takai",
+  "meaning": "high / expensive",
+  "level": "N5",
+  "category": "adjectives",
+  "example": null
+ },
+ {
+  "id": "v0056",
+  "word": "安い",
+  "kana": "やすい",
+  "romaji": "yasui",
+  "meaning": "cheap",
+  "level": "N5",
+  "category": "adjectives",
+  "example": null
+ },
+ {
+  "id": "v0057",
+  "word": "多い",
+  "kana": "おおい",
+  "romaji": "ooi",
+  "meaning": "many / much",
+  "level": "N5",
+  "category": "adjectives",
+  "example": null
+ },
+ {
+  "id": "v0058",
+  "word": "少ない",
+  "kana": "すくない",
+  "romaji": "sukunai",
+  "meaning": "few / little",
+  "level": "N5",
+  "category": "adjectives",
+  "example": null
+ },
+ {
+  "id": "v0059",
+  "word": "美味しい",
+  "kana": "おいしい",
+  "romaji": "oishii",
+  "meaning": "delicious",
+  "level": "N5",
+  "category": "adjectives",
+  "example": null
+ },
+ {
+  "id": "v0060",
+  "word": "楽しい",
+  "kana": "たのしい",
+  "romaji": "tanoshii",
+  "meaning": "fun / enjoyable",
+  "level": "N5",
+  "category": "adjectives",
+  "example": null
+ },
+ {
+  "id": "v0061",
+  "word": "嬉しい",
+  "kana": "うれしい",
+  "romaji": "ureshi",
+  "meaning": "happy (feeling)",
+  "level": "N5",
+  "category": "adjectives",
+  "example": null
+ },
+ {
+  "id": "v0062",
+  "word": "悲しい",
+  "kana": "かなしい",
+  "romaji": "kanashii",
+  "meaning": "sad",
+  "level": "N5",
+  "category": "adjectives",
+  "example": null
+ },
+ {
+  "id": "v0063",
+  "word": "忙しい",
+  "kana": "いそがしい",
+  "romaji": "isogashii",
+  "meaning": "busy",
+  "level": "N5",
+  "category": "adjectives",
+  "example": null
+ },
+ {
+  "id": "v0064",
+  "word": "易しい",
+  "kana": "やさしい",
+  "romaji": "yasashii",
+  "meaning": "easy",
+  "level": "N5",
+  "category": "adjectives",
+  "example": null
+ },
+ {
+  "id": "v0065",
+  "word": "難しい",
+  "kana": "むずかしい",
+  "romaji": "muzukashii",
+  "meaning": "difficult",
+  "level": "N5",
+  "category": "adjectives",
+  "example": null
+ },
+ {
+  "id": "v0066",
+  "word": "行く",
+  "kana": "いく",
+  "romaji": "iku",
+  "meaning": "to go",
+  "level": "N5",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0067",
+  "word": "来る",
+  "kana": "くる",
+  "romaji": "kuru",
+  "meaning": "to come",
+  "level": "N5",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0068",
+  "word": "帰る",
+  "kana": "かえる",
+  "romaji": "kaeru",
+  "meaning": "to return home",
+  "level": "N5",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0069",
+  "word": "食べる",
+  "kana": "たべる",
+  "romaji": "taberu",
+  "meaning": "to eat",
+  "level": "N5",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0070",
+  "word": "飲む",
+  "kana": "のむ",
+  "romaji": "nomu",
+  "meaning": "to drink",
+  "level": "N5",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0071",
+  "word": "見る",
+  "kana": "みる",
+  "romaji": "miru",
+  "meaning": "to see / watch",
+  "level": "N5",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0072",
+  "word": "聞く",
+  "kana": "きく",
+  "romaji": "kiku",
+  "meaning": "to listen / ask",
+  "level": "N5",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0073",
+  "word": "話す",
+  "kana": "はなす",
+  "romaji": "hanasu",
+  "meaning": "to speak",
+  "level": "N5",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0074",
+  "word": "読む",
+  "kana": "よむ",
+  "romaji": "yomu",
+  "meaning": "to read",
+  "level": "N5",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0075",
+  "word": "書く",
+  "kana": "かく",
+  "romaji": "kaku",
+  "meaning": "to write",
+  "level": "N5",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0076",
+  "word": "買う",
+  "kana": "かう",
+  "romaji": "kau",
+  "meaning": "to buy",
+  "level": "N5",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0077",
+  "word": "作る",
+  "kana": "つくる",
+  "romaji": "tsukuru",
+  "meaning": "to make",
+  "level": "N5",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0078",
+  "word": "寝る",
+  "kana": "ねる",
+  "romaji": "neru",
+  "meaning": "to sleep",
+  "level": "N5",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0079",
+  "word": "起きる",
+  "kana": "おきる",
+  "romaji": "okiru",
+  "meaning": "to wake up",
+  "level": "N5",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0080",
+  "word": "働く",
+  "kana": "はたらく",
+  "romaji": "hataraku",
+  "meaning": "to work",
+  "level": "N5",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0081",
+  "word": "勉強する",
+  "kana": "べんきょうする",
+  "romaji": "benkyou suru",
+  "meaning": "to study",
+  "level": "N5",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0082",
+  "word": "今日",
+  "kana": "きょう",
+  "romaji": "kyou",
+  "meaning": "today",
+  "level": "N5",
+  "category": "time",
+  "example": null
+ },
+ {
+  "id": "v0083",
+  "word": "明日",
+  "kana": "あした",
+  "romaji": "ashita",
+  "meaning": "tomorrow",
+  "level": "N5",
+  "category": "time",
+  "example": null
+ },
+ {
+  "id": "v0084",
+  "word": "昨日",
+  "kana": "きのう",
+  "romaji": "kinou",
+  "meaning": "yesterday",
+  "level": "N5",
+  "category": "time",
+  "example": null
+ },
+ {
+  "id": "v0085",
+  "word": "朝",
+  "kana": "あさ",
+  "romaji": "asa",
+  "meaning": "morning",
+  "level": "N5",
+  "category": "time",
+  "example": null
+ },
+ {
+  "id": "v0086",
+  "word": "昼",
+  "kana": "ひる",
+  "romaji": "hiru",
+  "meaning": "noon / daytime",
+  "level": "N5",
+  "category": "time",
+  "example": null
+ },
+ {
+  "id": "v0087",
+  "word": "夜",
+  "kana": "よる",
+  "romaji": "yoru",
+  "meaning": "night",
+  "level": "N5",
+  "category": "time",
+  "example": null
+ },
+ {
+  "id": "v0088",
+  "word": "今",
+  "kana": "いま",
+  "romaji": "ima",
+  "meaning": "now",
+  "level": "N5",
+  "category": "time",
+  "example": null
+ },
+ {
+  "id": "v0089",
+  "word": "時",
+  "kana": "とき",
+  "romaji": "toki",
+  "meaning": "time / when",
+  "level": "N5",
+  "category": "time",
+  "example": null
+ },
+ {
+  "id": "v0090",
+  "word": "年",
+  "kana": "とし",
+  "romaji": "toshi",
+  "meaning": "year",
+  "level": "N5",
+  "category": "time",
+  "example": null
+ },
+ {
+  "id": "v0091",
+  "word": "一",
+  "kana": "いち",
+  "romaji": "ichi",
+  "meaning": "one",
+  "level": "N5",
+  "category": "numbers",
+  "example": null
+ },
+ {
+  "id": "v0092",
+  "word": "二",
+  "kana": "に",
+  "romaji": "ni",
+  "meaning": "two",
+  "level": "N5",
+  "category": "numbers",
+  "example": null
+ },
+ {
+  "id": "v0093",
+  "word": "三",
+  "kana": "さん",
+  "romaji": "san",
+  "meaning": "three",
+  "level": "N5",
+  "category": "numbers",
+  "example": null
+ },
+ {
+  "id": "v0094",
+  "word": "四",
+  "kana": "よん",
+  "romaji": "yon",
+  "meaning": "four",
+  "level": "N5",
+  "category": "numbers",
+  "example": null
+ },
+ {
+  "id": "v0095",
+  "word": "五",
+  "kana": "ご",
+  "romaji": "go",
+  "meaning": "five",
+  "level": "N5",
+  "category": "numbers",
+  "example": null
+ },
+ {
+  "id": "v0096",
+  "word": "六",
+  "kana": "ろく",
+  "romaji": "roku",
+  "meaning": "six",
+  "level": "N5",
+  "category": "numbers",
+  "example": null
+ },
+ {
+  "id": "v0097",
+  "word": "七",
+  "kana": "なな",
+  "romaji": "nana",
+  "meaning": "seven",
+  "level": "N5",
+  "category": "numbers",
+  "example": null
+ },
+ {
+  "id": "v0098",
+  "word": "八",
+  "kana": "はち",
+  "romaji": "hachi",
+  "meaning": "eight",
+  "level": "N5",
+  "category": "numbers",
+  "example": null
+ },
+ {
+  "id": "v0099",
+  "word": "九",
+  "kana": "きゅう",
+  "romaji": "kyuu",
+  "meaning": "nine",
+  "level": "N5",
+  "category": "numbers",
+  "example": null
+ },
+ {
+  "id": "v0100",
+  "word": "十",
+  "kana": "じゅう",
+  "romaji": "juu",
+  "meaning": "ten",
+  "level": "N5",
+  "category": "numbers",
+  "example": null
+ },
+ {
+  "id": "v0101",
+  "word": "百",
+  "kana": "ひゃく",
+  "romaji": "hyaku",
+  "meaning": "hundred",
+  "level": "N5",
+  "category": "numbers",
+  "example": null
+ },
+ {
+  "id": "v0102",
+  "word": "千",
+  "kana": "せん",
+  "romaji": "sen",
+  "meaning": "thousand",
+  "level": "N5",
+  "category": "numbers",
+  "example": null
+ },
+ {
+  "id": "v0103",
+  "word": "万",
+  "kana": "まん",
+  "romaji": "man",
+  "meaning": "ten thousand",
+  "level": "N5",
+  "category": "numbers",
+  "example": null
+ },
+ {
+  "id": "v0104",
+  "word": "経験",
+  "kana": "けいけん",
+  "romaji": "keiken",
+  "meaning": "experience",
+  "level": "N4",
+  "category": "study",
+  "example": null
+ },
+ {
+  "id": "v0105",
+  "word": "習慣",
+  "kana": "しゅうかん",
+  "romaji": "shuukan",
+  "meaning": "habit / custom",
+  "level": "N4",
+  "category": "study",
+  "example": null
+ },
+ {
+  "id": "v0106",
+  "word": "約束",
+  "kana": "やくそく",
+  "romaji": "yakusoku",
+  "meaning": "promise",
+  "level": "N4",
+  "category": "daily",
+  "example": null
+ },
+ {
+  "id": "v0107",
+  "word": "準備",
+  "kana": "じゅんび",
+  "romaji": "junbi",
+  "meaning": "preparation",
+  "level": "N4",
+  "category": "daily",
+  "example": null
+ },
+ {
+  "id": "v0108",
+  "word": "練習",
+  "kana": "れんしゅう",
+  "romaji": "renshuu",
+  "meaning": "practice",
+  "level": "N4",
+  "category": "study",
+  "example": null
+ },
+ {
+  "id": "v0109",
+  "word": "復習",
+  "kana": "ふくしゅう",
+  "romaji": "fukushuu",
+  "meaning": "review (after class)",
+  "level": "N4",
+  "category": "study",
+  "example": null
+ },
+ {
+  "id": "v0110",
+  "word": "予習",
+  "kana": "よしゅう",
+  "romaji": "yoshuu",
+  "meaning": "pre-study",
+  "level": "N4",
+  "category": "study",
+  "example": null
+ },
+ {
+  "id": "v0111",
+  "word": "授業",
+  "kana": "じゅぎょう",
+  "romaji": "jugyou",
+  "meaning": "lesson / class",
+  "level": "N4",
+  "category": "study",
+  "example": null
+ },
+ {
+  "id": "v0112",
+  "word": "宿題",
+  "kana": "しゅくだい",
+  "romaji": "shukudai",
+  "meaning": "homework",
+  "level": "N4",
+  "category": "study",
+  "example": null
+ },
+ {
+  "id": "v0113",
+  "word": "試験",
+  "kana": "しけん",
+  "romaji": "shiken",
+  "meaning": "exam",
+  "level": "N4",
+  "category": "study",
+  "example": null
+ },
+ {
+  "id": "v0114",
+  "word": "合格",
+  "kana": "ごうかく",
+  "romaji": "goukaku",
+  "meaning": "passing an exam",
+  "level": "N4",
+  "category": "study",
+  "example": null
+ },
+ {
+  "id": "v0115",
+  "word": "失敗",
+  "kana": "しっぱい",
+  "romaji": "shippai",
+  "meaning": "failure / mistake",
+  "level": "N4",
+  "category": "daily",
+  "example": null
+ },
+ {
+  "id": "v0116",
+  "word": "成功",
+  "kana": "せいこう",
+  "romaji": "seikou",
+  "meaning": "success",
+  "level": "N4",
+  "category": "daily",
+  "example": null
+ },
+ {
+  "id": "v0117",
+  "word": "結果",
+  "kana": "けっか",
+  "romaji": "kekka",
+  "meaning": "result",
+  "level": "N4",
+  "category": "study",
+  "example": null
+ },
+ {
+  "id": "v0118",
+  "word": "原因",
+  "kana": "げんいん",
+  "romaji": "genin",
+  "meaning": "cause",
+  "level": "N4",
+  "category": "daily",
+  "example": null
+ },
+ {
+  "id": "v0119",
+  "word": "理由",
+  "kana": "りゆう",
+  "romaji": "riyuu",
+  "meaning": "reason",
+  "level": "N4",
+  "category": "daily",
+  "example": null
+ },
+ {
+  "id": "v0120",
+  "word": "目的",
+  "kana": "もくてき",
+  "romaji": "mokuteki",
+  "meaning": "purpose",
+  "level": "N4",
+  "category": "daily",
+  "example": null
+ },
+ {
+  "id": "v0121",
+  "word": "計画",
+  "kana": "けいかく",
+  "romaji": "keikaku",
+  "meaning": "plan",
+  "level": "N4",
+  "category": "daily",
+  "example": null
+ },
+ {
+  "id": "v0122",
+  "word": "予定",
+  "kana": "よてい",
+  "romaji": "yotei",
+  "meaning": "schedule / plan",
+  "level": "N4",
+  "category": "daily",
+  "example": null
+ },
+ {
+  "id": "v0123",
+  "word": "参加",
+  "kana": "さんか",
+  "romaji": "sanka",
+  "meaning": "participation",
+  "level": "N4",
+  "category": "daily",
+  "example": null
+ },
+ {
+  "id": "v0124",
+  "word": "説明",
+  "kana": "せつめい",
+  "romaji": "setsumei",
+  "meaning": "explanation",
+  "level": "N4",
+  "category": "study",
+  "example": null
+ },
+ {
+  "id": "v0125",
+  "word": "質問",
+  "kana": "しつもん",
+  "romaji": "shitsumon",
+  "meaning": "question",
+  "level": "N4",
+  "category": "study",
+  "example": null
+ },
+ {
+  "id": "v0126",
+  "word": "回答",
+  "kana": "かいとう",
+  "romaji": "kaitou",
+  "meaning": "answer",
+  "level": "N4",
+  "category": "study",
+  "example": null
+ },
+ {
+  "id": "v0127",
+  "word": "覚える",
+  "kana": "おぼえる",
+  "romaji": "oboeru",
+  "meaning": "to memorise",
+  "level": "N4",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0128",
+  "word": "忘れる",
+  "kana": "わすれる",
+  "romaji": "wasureru",
+  "meaning": "to forget",
+  "level": "N4",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0129",
+  "word": "教える",
+  "kana": "おしえる",
+  "romaji": "oshieru",
+  "meaning": "to teach",
+  "level": "N4",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0130",
+  "word": "習う",
+  "kana": "ならう",
+  "romaji": "narau",
+  "meaning": "to learn (from a teacher)",
+  "level": "N4",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0131",
+  "word": "増える",
+  "kana": "ふえる",
+  "romaji": "fueru",
+  "meaning": "to increase",
+  "level": "N4",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0132",
+  "word": "減る",
+  "kana": "へる",
+  "romaji": "heru",
+  "meaning": "to decrease",
+  "level": "N4",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0133",
+  "word": "選ぶ",
+  "kana": "えらぶ",
+  "romaji": "erabu",
+  "meaning": "to choose",
+  "level": "N4",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0134",
+  "word": "決める",
+  "kana": "きめる",
+  "romaji": "kimeru",
+  "meaning": "to decide",
+  "level": "N4",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0135",
+  "word": "変える",
+  "kana": "かえる",
+  "romaji": "kaeru",
+  "meaning": "to change",
+  "level": "N4",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0136",
+  "word": "直す",
+  "kana": "なおす",
+  "romaji": "naosu",
+  "meaning": "to fix / correct",
+  "level": "N4",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0137",
+  "word": "探す",
+  "kana": "さがす",
+  "romaji": "sagasu",
+  "meaning": "to search for",
+  "level": "N4",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0138",
+  "word": "見つける",
+  "kana": "みつける",
+  "romaji": "mitsukeru",
+  "meaning": "to find",
+  "level": "N4",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0139",
+  "word": "貸す",
+  "kana": "かす",
+  "romaji": "kasu",
+  "meaning": "to lend",
+  "level": "N4",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0140",
+  "word": "借りる",
+  "kana": "かりる",
+  "romaji": "kariru",
+  "meaning": "to borrow",
+  "level": "N4",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0141",
+  "word": "送る",
+  "kana": "おくる",
+  "romaji": "okuru",
+  "meaning": "to send",
+  "level": "N4",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0142",
+  "word": "受け取る",
+  "kana": "うけとる",
+  "romaji": "uketoru",
+  "meaning": "to receive",
+  "level": "N4",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0143",
+  "word": "開ける",
+  "kana": "あける",
+  "romaji": "akeru",
+  "meaning": "to open",
+  "level": "N4",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0144",
+  "word": "閉める",
+  "kana": "しめる",
+  "romaji": "shimeru",
+  "meaning": "to close",
+  "level": "N4",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0145",
+  "word": "始める",
+  "kana": "はじめる",
+  "romaji": "hajimeru",
+  "meaning": "to begin",
+  "level": "N4",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0146",
+  "word": "終わる",
+  "kana": "おわる",
+  "romaji": "owaru",
+  "meaning": "to finish",
+  "level": "N4",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0147",
+  "word": "続ける",
+  "kana": "つづける",
+  "romaji": "tsuzukeru",
+  "meaning": "to continue",
+  "level": "N4",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0148",
+  "word": "止める",
+  "kana": "とめる",
+  "romaji": "tomeru",
+  "meaning": "to stop",
+  "level": "N4",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0149",
+  "word": "待つ",
+  "kana": "まつ",
+  "romaji": "matsu",
+  "meaning": "to wait",
+  "level": "N4",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0150",
+  "word": "持つ",
+  "kana": "もつ",
+  "romaji": "motsu",
+  "meaning": "to hold / have",
+  "level": "N4",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0151",
+  "word": "置く",
+  "kana": "おく",
+  "romaji": "oku",
+  "meaning": "to place",
+  "level": "N4",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0152",
+  "word": "入れる",
+  "kana": "いれる",
+  "romaji": "ireru",
+  "meaning": "to put in",
+  "level": "N4",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0153",
+  "word": "出す",
+  "kana": "だす",
+  "romaji": "dasu",
+  "meaning": "to take out / submit",
+  "level": "N4",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0154",
+  "word": "渡す",
+  "kana": "わたす",
+  "romaji": "watasu",
+  "meaning": "to hand over",
+  "level": "N4",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0155",
+  "word": "届ける",
+  "kana": "とどける",
+  "romaji": "todokeru",
+  "meaning": "to deliver",
+  "level": "N4",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0156",
+  "word": "知る",
+  "kana": "しる",
+  "romaji": "shiru",
+  "meaning": "to know (learn of)",
+  "level": "N4",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0157",
+  "word": "分かる",
+  "kana": "わかる",
+  "romaji": "wakaru",
+  "meaning": "to understand",
+  "level": "N4",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0158",
+  "word": "思う",
+  "kana": "おもう",
+  "romaji": "omou",
+  "meaning": "to think / feel",
+  "level": "N4",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0159",
+  "word": "考える",
+  "kana": "かんがえる",
+  "romaji": "kangaeru",
+  "meaning": "to consider",
+  "level": "N4",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0160",
+  "word": "言う",
+  "kana": "いう",
+  "romaji": "iu",
+  "meaning": "to say",
+  "level": "N4",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0161",
+  "word": "呼ぶ",
+  "kana": "よぶ",
+  "romaji": "yobu",
+  "meaning": "to call / invite",
+  "level": "N4",
+  "category": "verbs",
+  "example": null
+ },
+ {
+  "id": "v0162",
+  "word": "概要",
+  "kana": "がいよう",
+  "romaji": "gaiyou",
+  "meaning": "overview / summary",
+  "level": "N3",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0163",
+  "word": "傾向",
+  "kana": "けいこう",
+  "romaji": "keikou",
+  "meaning": "tendency / trend",
+  "level": "N3",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0164",
+  "word": "影響",
+  "kana": "えいきょう",
+  "romaji": "eikyou",
+  "meaning": "influence",
+  "level": "N3",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0165",
+  "word": "環境",
+  "kana": "かんきょう",
+  "romaji": "kankyou",
+  "meaning": "environment",
+  "level": "N3",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0166",
+  "word": "社会",
+  "kana": "しゃかい",
+  "romaji": "shakai",
+  "meaning": "society",
+  "level": "N3",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0167",
+  "word": "経済",
+  "kana": "けいざい",
+  "romaji": "keizai",
+  "meaning": "economy",
+  "level": "N3",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0168",
+  "word": "文化",
+  "kana": "ぶんか",
+  "romaji": "bunka",
+  "meaning": "culture",
+  "level": "N3",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0169",
+  "word": "伝統",
+  "kana": "でんとう",
+  "romaji": "dentou",
+  "meaning": "tradition",
+  "level": "N3",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0170",
+  "word": "技術",
+  "kana": "ぎじゅつ",
+  "romaji": "gijutsu",
+  "meaning": "technology",
+  "level": "N3",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0171",
+  "word": "研究",
+  "kana": "けんきゅう",
+  "romaji": "kenkyuu",
+  "meaning": "research",
+  "level": "N3",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0172",
+  "word": "発表",
+  "kana": "はっぴょう",
+  "romaji": "happyou",
+  "meaning": "presentation / announcement",
+  "level": "N3",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0173",
+  "word": "論文",
+  "kana": "ろんぶん",
+  "romaji": "ronbun",
+  "meaning": "research paper",
+  "level": "N3",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0174",
+  "word": "資料",
+  "kana": "しりょう",
+  "romaji": "shiryou",
+  "meaning": "material / data",
+  "level": "N3",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0175",
+  "word": "参考文献",
+  "kana": "さんこうぶんけん",
+  "romaji": "sankou bunken",
+  "meaning": "reference / bibliography",
+  "level": "N3",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0176",
+  "word": "調査",
+  "kana": "ちょうさ",
+  "romaji": "chousa",
+  "meaning": "survey / investigation",
+  "level": "N3",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0177",
+  "word": "分析",
+  "kana": "ぶんせき",
+  "romaji": "bunseki",
+  "meaning": "analysis",
+  "level": "N3",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0178",
+  "word": "結論",
+  "kana": "けつろん",
+  "romaji": "ketsuron",
+  "meaning": "conclusion",
+  "level": "N3",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0179",
+  "word": "過程",
+  "kana": "かてい",
+  "romaji": "katei",
+  "meaning": "process",
+  "level": "N3",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0180",
+  "word": "状況",
+  "kana": "じょうきょう",
+  "romaji": "joukyou",
+  "meaning": "situation",
+  "level": "N3",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0181",
+  "word": "対応",
+  "kana": "たいおう",
+  "romaji": "taiou",
+  "meaning": "response / handling",
+  "level": "N3",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0182",
+  "word": "解決",
+  "kana": "かいけつ",
+  "romaji": "kaiketsu",
+  "meaning": "solution / resolution",
+  "level": "N3",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0183",
+  "word": "課題",
+  "kana": "かだい",
+  "romaji": "kadai",
+  "meaning": "task / issue",
+  "level": "N3",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0184",
+  "word": "改善",
+  "kana": "かいぜん",
+  "romaji": "kaizen",
+  "meaning": "improvement",
+  "level": "N3",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0185",
+  "word": "評価",
+  "kana": "ひょうか",
+  "romaji": "hyouka",
+  "meaning": "evaluation",
+  "level": "N3",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0186",
+  "word": "意見",
+  "kana": "いけん",
+  "romaji": "iken",
+  "meaning": "opinion",
+  "level": "N3",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0187",
+  "word": "立場",
+  "kana": "たちば",
+  "romaji": "tachiba",
+  "meaning": "position / standpoint",
+  "level": "N3",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0188",
+  "word": "視点",
+  "kana": "してん",
+  "romaji": "shiten",
+  "meaning": "viewpoint",
+  "level": "N3",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0189",
+  "word": "観点",
+  "kana": "かんてん",
+  "romaji": "kanten",
+  "meaning": "point of view",
+  "level": "N3",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0190",
+  "word": "重要性",
+  "kana": "じゅうようせい",
+  "romaji": "juuyousei",
+  "meaning": "importance",
+  "level": "N3",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0191",
+  "word": "可能性",
+  "kana": "かのうせい",
+  "romaji": "kanousei",
+  "meaning": "possibility",
+  "level": "N3",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0192",
+  "word": "現実",
+  "kana": "げんじつ",
+  "romaji": "genjitsu",
+  "meaning": "reality",
+  "level": "N2",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0193",
+  "word": "将来",
+  "kana": "しょうらい",
+  "romaji": "shourai",
+  "meaning": "future",
+  "level": "N2",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0194",
+  "word": "過去",
+  "kana": "かこ",
+  "romaji": "kako",
+  "meaning": "past",
+  "level": "N2",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0195",
+  "word": "現在",
+  "kana": "げんざい",
+  "romaji": "genzai",
+  "meaning": "present",
+  "level": "N2",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0196",
+  "word": "同時",
+  "kana": "どうじ",
+  "romaji": "douji",
+  "meaning": "same time / simultaneously",
+  "level": "N2",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0197",
+  "word": "以前",
+  "kana": "いぜん",
+  "romaji": "izen",
+  "meaning": "before / formerly",
+  "level": "N2",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0198",
+  "word": "以降",
+  "kana": "いこう",
+  "romaji": "ikou",
+  "meaning": "after / onwards",
+  "level": "N2",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0199",
+  "word": "以上",
+  "kana": "いじょう",
+  "romaji": "ijou",
+  "meaning": "or more / that is all",
+  "level": "N2",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0200",
+  "word": "以下",
+  "kana": "いか",
+  "romaji": "ika",
+  "meaning": "or less",
+  "level": "N2",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0201",
+  "word": "特に",
+  "kana": "とくに",
+  "romaji": "tokuni",
+  "meaning": "especially",
+  "level": "N2",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0202",
+  "word": "主に",
+  "kana": "おもに",
+  "romaji": "omoni",
+  "meaning": "mainly",
+  "level": "N2",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0203",
+  "word": "一般的",
+  "kana": "いっぱんてき",
+  "romaji": "ippanteki",
+  "meaning": "general / common",
+  "level": "N2",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0204",
+  "word": "明確",
+  "kana": "めいかく",
+  "romaji": "meikaku",
+  "meaning": "clear / explicit",
+  "level": "N2",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0205",
+  "word": "曖昧",
+  "kana": "あいまい",
+  "romaji": "aimai",
+  "meaning": "ambiguous",
+  "level": "N2",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0206",
+  "word": "複雑",
+  "kana": "ふくざつ",
+  "romaji": "fukuzatsu",
+  "meaning": "complex",
+  "level": "N2",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0207",
+  "word": "詳細",
+  "kana": "しょうさい",
+  "romaji": "shousai",
+  "meaning": "detail",
+  "level": "N2",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0208",
+  "word": "妥当",
+  "kana": "だとう",
+  "romaji": "datou",
+  "meaning": "appropriate / valid",
+  "level": "N2",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0209",
+  "word": "合理的",
+  "kana": "ごうりてき",
+  "romaji": "gouriteki",
+  "meaning": "rational",
+  "level": "N2",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0210",
+  "word": "客観的",
+  "kana": "きゃっかんてき",
+  "romaji": "kyakkanteki",
+  "meaning": "objective",
+  "level": "N1",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0211",
+  "word": "主観的",
+  "kana": "しゅかんてき",
+  "romaji": "shukanteki",
+  "meaning": "subjective",
+  "level": "N1",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0212",
+  "word": "必然的",
+  "kana": "ひつぜんてき",
+  "romaji": "hitsuzenteki",
+  "meaning": "inevitable",
+  "level": "N1",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0213",
+  "word": "本質的",
+  "kana": "ほんしつてき",
+  "romaji": "honshitsuteki",
+  "meaning": "essential",
+  "level": "N1",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0214",
+  "word": "一貫",
+  "kana": "いっかん",
+  "romaji": "ikkan",
+  "meaning": "consistency",
+  "level": "N1",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0215",
+  "word": "補足",
+  "kana": "ほそく",
+  "romaji": "hosoku",
+  "meaning": "supplement",
+  "level": "N1",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0216",
+  "word": "要約",
+  "kana": "ようやく",
+  "romaji": "youyaku",
+  "meaning": "summary",
+  "level": "N1",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0217",
+  "word": "推測",
+  "kana": "すいそく",
+  "romaji": "suisoku",
+  "meaning": "inference / guess",
+  "level": "N1",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0218",
+  "word": "主張",
+  "kana": "しゅちょう",
+  "romaji": "shuchou",
+  "meaning": "assertion / claim",
+  "level": "N1",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0219",
+  "word": "議論",
+  "kana": "ぎろん",
+  "romaji": "giron",
+  "meaning": "discussion / debate",
+  "level": "N1",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0220",
+  "word": "批判",
+  "kana": "ひはん",
+  "romaji": "hihan",
+  "meaning": "criticism",
+  "level": "N1",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0221",
+  "word": "賛成",
+  "kana": "さんせい",
+  "romaji": "sansei",
+  "meaning": "agreement / approval",
+  "level": "N1",
+  "category": "academic",
+  "example": null
+ },
+ {
+  "id": "v0222",
+  "word": "反対",
+  "kana": "はんたい",
+  "romaji": "hantai",
+  "meaning": "opposition",
+  "level": "N1",
+  "category": "academic",
+  "example": null
+ }
+]

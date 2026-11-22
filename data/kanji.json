@@ -1,0 +1,1712 @@
+[
+ {
+  "id": "k0001",
+  "char": "日",
+  "meaning": "sun / day",
+  "onyomi": "ニチ・ジツ",
+  "kunyomi": "ひ・か",
+  "level": "N5",
+  "grade": 1,
+  "radical": "日",
+  "compounds": [
+   "日本(にほん)",
+   "今日(きょう)"
+  ],
+  "note": "A sun with a dot: the centre of a day."
+ },
+ {
+  "id": "k0002",
+  "char": "月",
+  "meaning": "moon / month",
+  "onyomi": "ゲツ・ガツ",
+  "kunyomi": "つき",
+  "level": "N5",
+  "grade": 1,
+  "radical": "月",
+  "compounds": [
+   "月曜日(げつようび)",
+   "一月(いちがつ)"
+  ],
+  "note": "A crescent moon; also a month."
+ },
+ {
+  "id": "k0003",
+  "char": "火",
+  "meaning": "fire / Tuesday",
+  "onyomi": "カ",
+  "kunyomi": "ひ・び",
+  "level": "N5",
+  "grade": 1,
+  "radical": "火",
+  "compounds": [
+   "火曜日(かようび)",
+   "花火(はなび)"
+  ],
+  "note": "Fire; the second weekday."
+ },
+ {
+  "id": "k0004",
+  "char": "水",
+  "meaning": "water / Wednesday",
+  "onyomi": "スイ",
+  "kunyomi": "みず",
+  "level": "N5",
+  "grade": 1,
+  "radical": "水",
+  "compounds": [
+   "水曜日(すいようび)",
+   "水泳(すいえい)"
+  ],
+  "note": "Flowing water."
+ },
+ {
+  "id": "k0005",
+  "char": "木",
+  "meaning": "tree / Thursday",
+  "onyomi": "モク・ボク",
+  "kunyomi": "き",
+  "level": "N5",
+  "grade": 1,
+  "radical": "木",
+  "compounds": [
+   "木曜日(もくようび)",
+   "树木(じゅもく)"
+  ],
+  "note": "A trunk with branches and roots."
+ },
+ {
+  "id": "k0006",
+  "char": "金",
+  "meaning": "gold / Friday",
+  "onyomi": "キン・コン",
+  "kunyomi": "かね",
+  "level": "N5",
+  "grade": 1,
+  "radical": "金",
+  "compounds": [
+   "金曜日(きんようび)",
+   "お金(おかね)"
+  ],
+  "note": "Gold; also money and Friday."
+ },
+ {
+  "id": "k0007",
+  "char": "土",
+  "meaning": "earth / Saturday",
+  "onyomi": "ド・ト",
+  "kunyomi": "つち",
+  "level": "N5",
+  "grade": 1,
+  "radical": "土",
+  "compounds": [
+   "土曜日(どようび)",
+   "土地(とち)"
+  ],
+  "note": "Soil: a mound on the ground."
+ },
+ {
+  "id": "k0008",
+  "char": "人",
+  "meaning": "person",
+  "onyomi": "ジン・ニン",
+  "kunyomi": "ひと",
+  "level": "N5",
+  "grade": 1,
+  "radical": "人",
+  "compounds": [
+   "人々(ひとびと)",
+   "日本人(にほんじん)"
+  ],
+  "note": "A walking figure with two legs."
+ },
+ {
+  "id": "k0009",
+  "char": "口",
+  "meaning": "mouth",
+  "onyomi": "コウ",
+  "kunyomi": "くち",
+  "level": "N5",
+  "grade": 1,
+  "radical": "口",
+  "compounds": [
+   "人口(じんこう)",
+   "口紅(くちべに)"
+  ],
+  "note": "An open mouth."
+ },
+ {
+  "id": "k0010",
+  "char": "目",
+  "meaning": "eye",
+  "onyomi": "モク・ボク",
+  "kunyomi": "め",
+  "level": "N5",
+  "grade": 1,
+  "radical": "目",
+  "compounds": [
+   "目的(もくてき)",
+   "目鏡(めがね)"
+  ],
+  "note": "An eye, rotated from the side view."
+ },
+ {
+  "id": "k0011",
+  "char": "耳",
+  "meaning": "ear",
+  "onyomi": "ジ",
+  "kunyomi": "みみ",
+  "level": "N5",
+  "grade": 1,
+  "radical": "耳",
+  "compounds": [
+   "耳鼻科(じびか)",
+   "耳鳴り(みみなり)"
+  ],
+  "note": "The shape of an ear."
+ },
+ {
+  "id": "k0012",
+  "char": "手",
+  "meaning": "hand",
+  "onyomi": "シュ",
+  "kunyomi": "て",
+  "level": "N5",
+  "grade": 1,
+  "radical": "手",
+  "compounds": [
+   "手紙(てがみ)",
+   "手間(てま)"
+  ],
+  "note": "A hand with five fingers."
+ },
+ {
+  "id": "k0013",
+  "char": "足",
+  "meaning": "foot / leg",
+  "onyomi": "ソク",
+  "kunyomi": "あし・た",
+  "level": "N5",
+  "grade": 1,
+  "radical": "足",
+  "compounds": [
+   "足跡(あしあと)",
+   "不足(ふそく)"
+  ],
+  "note": "A knee and a foot."
+ },
+ {
+  "id": "k0014",
+  "char": "心",
+  "meaning": "heart / mind",
+  "onyomi": "シン",
+  "kunyomi": "こころ",
+  "level": "N4",
+  "grade": 2,
+  "radical": "心",
+  "compounds": [
+   "心配(しんぱい)",
+   "安心(あんしん)"
+  ],
+  "note": "The heart with its vessels."
+ },
+ {
+  "id": "k0015",
+  "char": "力",
+  "meaning": "power / strength",
+  "onyomi": "リョク・リキ",
+  "kunyomi": "ちから",
+  "level": "N4",
+  "grade": 1,
+  "radical": "力",
+  "compounds": [
+   "努力(どりょく)",
+   "力士(りきし)"
+  ],
+  "note": "An arm showing muscle."
+ },
+ {
+  "id": "k0016",
+  "char": "山",
+  "meaning": "mountain",
+  "onyomi": "サン",
+  "kunyomi": "やま",
+  "level": "N5",
+  "grade": 1,
+  "radical": "山",
+  "compounds": [
+   "富士山(ふじさん)",
+   "登山(とざん)"
+  ],
+  "note": "Three peaks of a mountain."
+ },
+ {
+  "id": "k0017",
+  "char": "川",
+  "meaning": "river",
+  "onyomi": "セン",
+  "kunyomi": "かわ",
+  "level": "N5",
+  "grade": 1,
+  "radical": "川",
+  "compounds": [
+   "河川(かせん)",
+   "川岸(かわぎし)"
+  ],
+  "note": "Three flowing water strokes."
+ },
+ {
+  "id": "k0018",
+  "char": "田",
+  "meaning": "rice field",
+  "onyomi": "デン",
+  "kunyomi": "た",
+  "level": "N5",
+  "grade": 1,
+  "radical": "田",
+  "compounds": [
+   "水田(すいでん)",
+   "田植え(たうえ)"
+  ],
+  "note": "A grid of irrigated fields."
+ },
+ {
+  "id": "k0019",
+  "char": "空",
+  "meaning": "sky / empty",
+  "onyomi": "クウ",
+  "kunyomi": "そら・あ",
+  "level": "N5",
+  "grade": 1,
+  "radical": "穴",
+  "compounds": [
+   "空気(くうき)",
+   "空港(くうこう)"
+  ],
+  "note": "A roof over emptiness: the sky."
+ },
+ {
+  "id": "k0020",
+  "char": "天",
+  "meaning": "heaven",
+  "onyomi": "テン",
+  "kunyomi": "そら",
+  "level": "N4",
+  "grade": 1,
+  "radical": "大",
+  "compounds": [
+   "天気(てんき)",
+   "天才(てんさい)"
+  ],
+  "note": "A big horizontal line above a person: heaven."
+ },
+ {
+  "id": "k0021",
+  "char": "雨",
+  "meaning": "rain",
+  "onyomi": "ウ",
+  "kunyomi": "あめ",
+  "level": "N5",
+  "grade": 1,
+  "radical": "雨",
+  "compounds": [
+   "雨天(うてん)",
+   "大雨(おおあめ)"
+  ],
+  "note": "Raindrops falling from a cloud."
+ },
+ {
+  "id": "k0022",
+  "char": "風",
+  "meaning": "wind",
+  "onyomi": "フウ",
+  "kunyomi": "かぜ",
+  "level": "N4",
+  "grade": 2,
+  "radical": "風",
+  "compounds": [
+   "風邪(かぜ)",
+   "風景(ふうけい)"
+  ],
+  "note": "Wind blowing inside a frame."
+ },
+ {
+  "id": "k0023",
+  "char": "雪",
+  "meaning": "snow",
+  "onyomi": "セツ",
+  "kunyomi": "ゆき",
+  "level": "N4",
+  "grade": 2,
+  "radical": "雨",
+  "compounds": [
+   "雪国(ゆきぐに)",
+   "降雪(こうせつ)"
+  ],
+  "note": "Rain that has turned to ice."
+ },
+ {
+  "id": "k0024",
+  "char": "花",
+  "meaning": "flower",
+  "onyomi": "カ",
+  "kunyomi": "はな",
+  "level": "N5",
+  "grade": 1,
+  "radical": "艹",
+  "compounds": [
+   "花見(はなみ)",
+   "花火(はなび)"
+  ],
+  "note": "A plant with a flower above."
+ },
+ {
+  "id": "k0025",
+  "char": "草",
+  "meaning": "grass",
+  "onyomi": "ソウ",
+  "kunyomi": "くさ",
+  "level": "N5",
+  "grade": 1,
+  "radical": "艹",
+  "compounds": [
+   "草食(そうしょく)",
+   "芝草(しばそう)"
+  ],
+  "note": "Grass growing from the ground."
+ },
+ {
+  "id": "k0026",
+  "char": "林",
+  "meaning": "woods",
+  "onyomi": "リン",
+  "kunyomi": "はやし",
+  "level": "N5",
+  "grade": 1,
+  "radical": "木",
+  "compounds": [
+   "林業(りんぎょう)",
+   "森林(しんりん)"
+  ],
+  "note": "Two trees: a small wood."
+ },
+ {
+  "id": "k0027",
+  "char": "森",
+  "meaning": "forest",
+  "onyomi": "シン",
+  "kunyomi": "もり",
+  "level": "N5",
+  "grade": 1,
+  "radical": "木",
+  "compounds": [
+   "森林(しんりん)",
+   "森羅(しんら)"
+  ],
+  "note": "Three trees: a deep forest."
+ },
+ {
+  "id": "k0028",
+  "char": "犬",
+  "meaning": "dog",
+  "onyomi": "ケン",
+  "kunyomi": "いぬ",
+  "level": "N5",
+  "grade": 1,
+  "radical": "犬",
+  "compounds": [
+   "犬小屋(いぬごや)",
+   "愛犬(あいけん)"
+  ],
+  "note": "A dog standing on two legs."
+ },
+ {
+  "id": "k0029",
+  "char": "猫",
+  "meaning": "cat",
+  "onyomi": "ビョウ",
+  "kunyomi": "ねこ",
+  "level": "N5",
+  "grade": 2,
+  "radical": "犭",
+  "compounds": [
+   "猫背(ねこぜ)",
+   "野猫(やねこ)"
+  ],
+  "note": "The cat radical plus a field."
+ },
+ {
+  "id": "k0030",
+  "char": "鳥",
+  "meaning": "bird",
+  "onyomi": "チョウ",
+  "kunyomi": "とり",
+  "level": "N5",
+  "grade": 2,
+  "radical": "鳥",
+  "compounds": [
+   "鳥居(とりい)",
+   "野鳥(やちょう)"
+  ],
+  "note": "A bird with a tail."
+ },
+ {
+  "id": "k0031",
+  "char": "魚",
+  "meaning": "fish",
+  "onyomi": "ギョ",
+  "kunyomi": "さかな・うお",
+  "level": "N5",
+  "grade": 2,
+  "radical": "魚",
+  "compounds": [
+   "魚屋(さかなや)",
+   "金鱼(きんぎょ)"
+  ],
+  "note": "A fish head with fins."
+ },
+ {
+  "id": "k0032",
+  "char": "馬",
+  "meaning": "horse",
+  "onyomi": "バ",
+  "kunyomi": "うま",
+  "level": "N4",
+  "grade": 2,
+  "radical": "馬",
+  "compounds": [
+   "馬車(ばしゃ)",
+   "競馬(けいば)"
+  ],
+  "note": "A horse with a mane and legs."
+ },
+ {
+  "id": "k0033",
+  "char": "牛",
+  "meaning": "cow / ox",
+  "onyomi": "ギュウ",
+  "kunyomi": "うし",
+  "level": "N5",
+  "grade": 2,
+  "radical": "牛",
+  "compounds": [
+   "牛肉(ぎゅうにく)",
+   "牛乳(ぎゅうにゅう)"
+  ],
+  "note": "An ox head with horns."
+ },
+ {
+  "id": "k0034",
+  "char": "虫",
+  "meaning": "insect",
+  "onyomi": "チュウ",
+  "kunyomi": "むし",
+  "level": "N5",
+  "grade": 1,
+  "radical": "虫",
+  "compounds": [
+   "昆虫(こんちゅう)",
+   "虫歯(むしば)"
+  ],
+  "note": "A small crawling creature."
+ },
+ {
+  "id": "k0035",
+  "char": "一",
+  "meaning": "one",
+  "onyomi": "イチ・イツ",
+  "kunyomi": "ひと・い",
+  "level": "N5",
+  "grade": 1,
+  "radical": "一",
+  "compounds": [
+   "一人(ひとり)",
+   "一流(いちりゅう)"
+  ],
+  "note": "One horizontal stroke."
+ },
+ {
+  "id": "k0036",
+  "char": "二",
+  "meaning": "two",
+  "onyomi": "ニ・フタ",
+  "kunyomi": "ふた",
+  "level": "N5",
+  "grade": 1,
+  "radical": "二",
+  "compounds": [
+   "二月(にがつ)",
+   "二人(ふたり)"
+  ],
+  "note": "Two horizontal strokes."
+ },
+ {
+  "id": "k0037",
+  "char": "三",
+  "meaning": "three",
+  "onyomi": "サン",
+  "kunyomi": "みっ",
+  "level": "N5",
+  "grade": 1,
+  "radical": "一",
+  "compounds": [
+   "三時(さんじ)",
+   "三月(さんがつ)"
+  ],
+  "note": "Three horizontal strokes."
+ },
+ {
+  "id": "k0038",
+  "char": "四",
+  "meaning": "four",
+  "onyomi": "シ・ヨン",
+  "kunyomi": "よっ",
+  "level": "N5",
+  "grade": 1,
+  "radical": "囗",
+  "compounds": [
+   "四月(しがつ)",
+   "四角(しかく)"
+  ],
+  "note": "A enclosure with a cross inside."
+ },
+ {
+  "id": "k0039",
+  "char": "五",
+  "meaning": "five",
+  "onyomi": "ゴ",
+  "kunyomi": "いつ",
+  "level": "N5",
+  "grade": 1,
+  "radical": "二",
+  "compounds": [
+   "五時(ごじ)",
+   "五月(ごがつ)"
+  ],
+  "note": "Five, between two horizontal lines."
+ },
+ {
+  "id": "k0040",
+  "char": "六",
+  "meaning": "six",
+  "onyomi": "ロク",
+  "kunyomi": "むっ",
+  "level": "N5",
+  "grade": 1,
+  "radical": "八",
+  "compounds": [
+   "六時(ろくじ)",
+   "六月(ろくがつ)"
+  ],
+  "note": "A roof and two legs."
+ },
+ {
+  "id": "k0041",
+  "char": "七",
+  "meaning": "seven",
+  "onyomi": "チツ・ナナ",
+  "kunyomi": "なな",
+  "level": "N5",
+  "grade": 1,
+  "radical": "一",
+  "compounds": [
+   "七日(なのか)",
+   "七時(ななじ)"
+  ],
+  "note": "A stroke crossing another."
+ },
+ {
+  "id": "k0042",
+  "char": "八",
+  "meaning": "eight",
+  "onyomi": "ハチ",
+  "kunyomi": "やっ",
+  "level": "N5",
+  "grade": 1,
+  "radical": "八",
+  "compounds": [
+   "八時(はちじ)",
+   "八月(はちがつ)"
+  ],
+  "note": "Two spreading strokes."
+ },
+ {
+  "id": "k0043",
+  "char": "九",
+  "meaning": "nine",
+  "onyomi": "キュウ・ク",
+  "kunyomi": "ここの",
+  "level": "N5",
+  "grade": 1,
+  "radical": "乙",
+  "compounds": [
+   "九時(きゅうじ)",
+   "九月(くがつ)"
+  ],
+  "note": "A curved stroke with a hook."
+ },
+ {
+  "id": "k0044",
+  "char": "十",
+  "meaning": "ten",
+  "onyomi": "ジュウ・ジッ",
+  "kunyomi": "とお",
+  "level": "N5",
+  "grade": 1,
+  "radical": "十",
+  "compounds": [
+   "十分(じゅっぷん)",
+   "十月(じゅうがつ)"
+  ],
+  "note": "A cross: ten."
+ },
+ {
+  "id": "k0045",
+  "char": "百",
+  "meaning": "hundred",
+  "onyomi": "ヒャク",
+  "kunyomi": "ひゃく",
+  "level": "N5",
+  "grade": 2,
+  "radical": "白",
+  "compounds": [
+   "百円(ひゃくえん)",
+   "百人(ひゃくにん)"
+  ],
+  "note": "One over white: a hundred."
+ },
+ {
+  "id": "k0046",
+  "char": "千",
+  "meaning": "thousand",
+  "onyomi": "セン",
+  "kunyomi": "せん",
+  "level": "N5",
+  "grade": 1,
+  "radical": "十",
+  "compounds": [
+   "千円(せんえん)",
+   "千人(せんにん)"
+  ],
+  "note": "A thousand, from ten and a stroke."
+ },
+ {
+  "id": "k0047",
+  "char": "万",
+  "meaning": "ten thousand",
+  "onyomi": "マン・バン",
+  "kunyomi": "よろず",
+  "level": "N4",
+  "grade": 2,
+  "radical": "一",
+  "compounds": [
+   "一万(いちまん)",
+   "万引き(まんびき)"
+  ],
+  "note": "A huge number."
+ },
+ {
+  "id": "k0048",
+  "char": "大",
+  "meaning": "big / large",
+  "onyomi": "タイ・ダイ",
+  "kunyomi": "おお・たい",
+  "level": "N5",
+  "grade": 1,
+  "radical": "大",
+  "compounds": [
+   "大学(だいがく)",
+   "大人(おとな)"
+  ],
+  "note": "A person with arms spread wide."
+ },
+ {
+  "id": "k0049",
+  "char": "小",
+  "meaning": "small",
+  "onyomi": "ショウ",
+  "kunyomi": "ちい・こ",
+  "level": "N5",
+  "grade": 1,
+  "radical": "小",
+  "compounds": [
+   "小さい(ちいさい)",
+   "小子(しょうし)"
+  ],
+  "note": "Three small strokes."
+ },
+ {
+  "id": "k0050",
+  "char": "上",
+  "meaning": "up / above",
+  "onyomi": "ジョウ",
+  "kunyomi": "うえ・あ",
+  "level": "N5",
+  "grade": 1,
+  "radical": "一",
+  "compounds": [
+   "上学(じょうがく)",
+   "上手(じょうず)"
+  ],
+  "note": "A line above a baseline."
+ },
+ {
+  "id": "k0051",
+  "char": "下",
+  "meaning": "down / below",
+  "onyomi": "カ・ゲ",
+  "kunyomi": "した・くだ",
+  "level": "N5",
+  "grade": 1,
+  "radical": "一",
+  "compounds": [
+   "下宿(げしゅく)",
+   "下手(へた)"
+  ],
+  "note": "A line below a baseline."
+ },
+ {
+  "id": "k0052",
+  "char": "左",
+  "meaning": "left",
+  "onyomi": "サ",
+  "kunyomi": "ひだり",
+  "level": "N5",
+  "grade": 1,
+  "radical": "工",
+  "compounds": [
+   "左手(ひだりて)",
+   "左側(ひだりがわ)"
+  ],
+  "note": "A left hand with a tool."
+ },
+ {
+  "id": "k0053",
+  "char": "右",
+  "meaning": "right",
+  "onyomi": "ユウ",
+  "kunyomi": "みぎ",
+  "level": "N5",
+  "grade": 1,
+  "radical": "口",
+  "compounds": [
+   "右手(みぎて)",
+   "右側(みぎがわ)"
+  ],
+  "note": "A right hand under a mouth."
+ },
+ {
+  "id": "k0054",
+  "char": "中",
+  "meaning": "middle / inside",
+  "onyomi": "チュウ",
+  "kunyomi": "なか",
+  "level": "N5",
+  "grade": 1,
+  "radical": "丨",
+  "compounds": [
+   "中国(ちゅうごく)",
+   "中心(ちゅうしん)"
+  ],
+  "note": "A line through the middle."
+ },
+ {
+  "id": "k0055",
+  "char": "内",
+  "meaning": "inside",
+  "onyomi": "ナイ",
+  "kunyomi": "うち",
+  "level": "N5",
+  "grade": 1,
+  "radical": "冂",
+  "compounds": [
+   "内部(ないぶ)",
+   "内側(うちがわ)"
+  ],
+  "note": "A person inside an enclosure."
+ },
+ {
+  "id": "k0056",
+  "char": "外",
+  "meaning": "outside",
+  "onyomi": "ガイ",
+  "kunyomi": "そと・ほか",
+  "level": "N5",
+  "grade": 1,
+  "radical": "卜",
+  "compounds": [
+   "外国(がいこく)",
+   "外出(がいしゅつ)"
+  ],
+  "note": "Outside the boundary."
+ },
+ {
+  "id": "k0057",
+  "char": "前",
+  "meaning": "front / before",
+  "onyomi": "ゼン",
+  "kunyomi": "まえ",
+  "level": "N5",
+  "grade": 1,
+  "radical": "刂",
+  "compounds": [
+   "前日(ぜんじつ)",
+   "前方(ぜんぽう)"
+  ],
+  "note": "A boat and a knife: ahead."
+ },
+ {
+  "id": "k0058",
+  "char": "後",
+  "meaning": "after / behind",
+  "onyomi": "ゴ",
+  "kunyomi": "あと・うし",
+  "level": "N4",
+  "grade": 2,
+  "radical": "彳",
+  "compounds": [
+   "後日(ごじつ)",
+   "後方(こうほう)"
+  ],
+  "note": "One who walks behind."
+ },
+ {
+  "id": "k0059",
+  "char": "東",
+  "meaning": "east",
+  "onyomi": "トウ",
+  "kunyomi": "ひがし",
+  "level": "N5",
+  "grade": 2,
+  "radical": "木",
+  "compounds": [
+   "東京(とうきょう)",
+   "東洋(とうよう)"
+  ],
+  "note": "Sun rising behind a tree."
+ },
+ {
+  "id": "k0060",
+  "char": "西",
+  "meaning": "west",
+  "onyomi": "サイ",
+  "kunyomi": "にし",
+  "level": "N5",
+  "grade": 2,
+  "radical": "襾",
+  "compounds": [
+   "西日本(にしにほん)",
+   "西欧(せいおう)"
+  ],
+  "note": "Sun setting into a nest."
+ },
+ {
+  "id": "k0061",
+  "char": "南",
+  "meaning": "south",
+  "onyomi": "ナン",
+  "kunyomi": "みなみ",
+  "level": "N5",
+  "grade": 2,
+  "radical": "十",
+  "compounds": [
+   "南半球(みなみはんきゅう)",
+   "南風(みなみかぜ)"
+  ],
+  "note": "A southern direction marker."
+ },
+ {
+  "id": "k0062",
+  "char": "北",
+  "meaning": "north",
+  "onyomi": "ホク",
+  "kunyomi": "きた",
+  "level": "N5",
+  "grade": 2,
+  "radical": "匕",
+  "compounds": [
+   "北京(ぺきん)",
+   "北風(きたかぜ)"
+  ],
+  "note": "Two people back to back: north."
+ },
+ {
+  "id": "k0063",
+  "char": "白",
+  "meaning": "white",
+  "onyomi": "ハク",
+  "kunyomi": "しろ",
+  "level": "N5",
+  "grade": 1,
+  "radical": "白",
+  "compounds": [
+   "白紙(はくし)",
+   "白い(しろい)"
+  ],
+  "note": "A bright, clear colour."
+ },
+ {
+  "id": "k0064",
+  "char": "黒",
+  "meaning": "black",
+  "onyomi": "コク",
+  "kunyomi": "くろ",
+  "level": "N5",
+  "grade": 2,
+  "radical": "黑",
+  "compounds": [
+   "黒板(こくばん)",
+   "黒い(くろい)"
+  ],
+  "note": "A darkened face."
+ },
+ {
+  "id": "k0065",
+  "char": "赤",
+  "meaning": "red",
+  "onyomi": "セキ",
+  "kunyomi": "あか",
+  "level": "N5",
+  "grade": 2,
+  "radical": "赤",
+  "compounds": [
+   "赤ちゃん(あかちゃん)",
+   "赤色(あかいろ)"
+  ],
+  "note": "Red soil and a person."
+ },
+ {
+  "id": "k0066",
+  "char": "青",
+  "meaning": "blue / green",
+  "onyomi": "セイ",
+  "kunyomi": "あお",
+  "level": "N5",
+  "grade": 2,
+  "radical": "青",
+  "compounds": [
+   "青空(あおぞら)",
+   "青い(あおい)"
+  ],
+  "note": "A plant growing over a well."
+ },
+ {
+  "id": "k0067",
+  "char": "黄",
+  "meaning": "yellow",
+  "onyomi": "オウ",
+  "kunyomi": "き",
+  "level": "N4",
+  "grade": 2,
+  "radical": "黄",
+  "compounds": [
+   "黄色(きいろ)",
+   "黄金(おうごん)"
+  ],
+  "note": "Yellow, like gold."
+ },
+ {
+  "id": "k0068",
+  "char": "高",
+  "meaning": "high / tall",
+  "onyomi": "コウ",
+  "kunyomi": "たか",
+  "level": "N5",
+  "grade": 2,
+  "radical": "高",
+  "compounds": [
+   "高校(こうこう)",
+   "高い(たかい)"
+  ],
+  "note": "A tall gate with a roof."
+ },
+ {
+  "id": "k0069",
+  "char": "低",
+  "meaning": "low",
+  "onyomi": "テイ",
+  "kunyomi": "ひく",
+  "level": "N4",
+  "grade": 2,
+  "radical": "亻",
+  "compounds": [
+   "低音(ていおん)",
+   "低い(ひくい)"
+  ],
+  "note": "A person bowing low."
+ },
+ {
+  "id": "k0070",
+  "char": "長",
+  "meaning": "long",
+  "onyomi": "チョウ",
+  "kunyomi": "なが",
+  "level": "N5",
+  "grade": 2,
+  "radical": "長",
+  "compounds": [
+   "長い(ながい)",
+   "成長(せいちょう)"
+  ],
+  "note": "Long hair on a person."
+ },
+ {
+  "id": "k0071",
+  "char": "短",
+  "meaning": "short",
+  "onyomi": "タン",
+  "kunyomi": "みじか",
+  "level": "N4",
+  "grade": 2,
+  "radical": "矢",
+  "compounds": [
+   "短い(みじかい)",
+   "短縮(たんしゅく)"
+  ],
+  "note": "An arrow and a dish: short."
+ },
+ {
+  "id": "k0072",
+  "char": "多",
+  "meaning": "many",
+  "onyomi": "タ",
+  "kunyomi": "おお",
+  "level": "N5",
+  "grade": 2,
+  "radical": "夕",
+  "compounds": [
+   "多い(おおい)",
+   "多様(たよう)"
+  ],
+  "note": "Two evening moons: many."
+ },
+ {
+  "id": "k0073",
+  "char": "少",
+  "meaning": "few / little",
+  "onyomi": "ショウ",
+  "kunyomi": "すく・すこ",
+  "level": "N5",
+  "grade": 2,
+  "radical": "小",
+  "compounds": [
+   "少ない(すくない)",
+   "少し(すこし)"
+  ],
+  "note": "Small and getting smaller."
+ },
+ {
+  "id": "k0074",
+  "char": "良",
+  "meaning": "good",
+  "onyomi": "リョウ",
+  "kunyomi": "よ",
+  "level": "N5",
+  "grade": 2,
+  "radical": "艮",
+  "compounds": [
+   "良い(よい)",
+   "良質(りょうしつ)"
+  ],
+  "note": "A good, stable person."
+ },
+ {
+  "id": "k0075",
+  "char": "悪",
+  "meaning": "bad",
+  "onyomi": "アク",
+  "kunyomi": "わる",
+  "level": "N4",
+  "grade": 2,
+  "radical": "心",
+  "compounds": [
+   "悪い(わるい)",
+   "悪天候(あくてんこう)"
+  ],
+  "note": "A bad heart."
+ },
+ {
+  "id": "k0076",
+  "char": "新",
+  "meaning": "new",
+  "onyomi": "シン",
+  "kunyomi": "あたら・にい",
+  "level": "N5",
+  "grade": 2,
+  "radical": "斤",
+  "compounds": [
+   "新年(しんねん)",
+   "新しい(あたらしい)"
+  ],
+  "note": "A new axe and a tree."
+ },
+ {
+  "id": "k0077",
+  "char": "古",
+  "meaning": "old",
+  "onyomi": "コ",
+  "kunyomi": "ふる",
+  "level": "N5",
+  "grade": 1,
+  "radical": "口",
+  "compounds": [
+   "古い(ふるい)",
+   "古代(こだい)"
+  ],
+  "note": "An old, crossed-out mouth."
+ },
+ {
+  "id": "k0078",
+  "char": "明",
+  "meaning": "bright / clear",
+  "onyomi": "メイ",
+  "kunyomi": "あか・あ",
+  "level": "N5",
+  "grade": 2,
+  "radical": "日",
+  "compounds": [
+   "明日(あした)",
+   "明白(めいはく)"
+  ],
+  "note": "Sun and moon together: light."
+ },
+ {
+  "id": "k0079",
+  "char": "暗",
+  "meaning": "dark",
+  "onyomi": "アン",
+  "kunyomi": "くら",
+  "level": "N4",
+  "grade": 2,
+  "radical": "日",
+  "compounds": [
+   "暗い(くらい)",
+   "暗記(あんき)"
+  ],
+  "note": "The sun hidden by a wall."
+ },
+ {
+  "id": "k0080",
+  "char": "名",
+  "meaning": "name",
+  "onyomi": "メイ",
+  "kunyomi": "な",
+  "level": "N5",
+  "grade": 1,
+  "radical": "口",
+  "compounds": [
+   "名前(なまえ)",
+   "有名(ゆうめい)"
+  ],
+  "note": "A mouth calling a name."
+ },
+ {
+  "id": "k0081",
+  "char": "先",
+  "meaning": "previous / ahead",
+  "onyomi": "セン",
+  "kunyomi": "さき",
+  "level": "N4",
+  "grade": 2,
+  "radical": "儿",
+  "compounds": [
+   "先週(せんしゅう)",
+   "先輩(せんぱい)"
+  ],
+  "note": "Feet moving forward: ahead."
+ },
+ {
+  "id": "k0082",
+  "char": "生",
+  "meaning": "life / born",
+  "onyomi": "セイ・ショウ",
+  "kunyomi": "い・うま",
+  "level": "N5",
+  "grade": 1,
+  "radical": "生",
+  "compounds": [
+   "学生(がくせい)",
+   "生まれる(うまれる)"
+  ],
+  "note": "A sprout rising from the ground."
+ },
+ {
+  "id": "k0083",
+  "char": "学",
+  "meaning": "study",
+  "onyomi": "ガク",
+  "kunyomi": "まな",
+  "level": "N5",
+  "grade": 2,
+  "radical": "子",
+  "compounds": [
+   "学校(がっこう)",
+   "文学(ぶんがく)"
+  ],
+  "note": "A child under a roof: learning."
+ },
+ {
+  "id": "k0084",
+  "char": "校",
+  "meaning": "school",
+  "onyomi": "コウ",
+  "kunyomi": "",
+  "level": "N5",
+  "grade": 2,
+  "radical": "木",
+  "compounds": [
+   "学校(がっこう)",
+   "校長(こうちょう)"
+  ],
+  "note": "Wooden building for learning."
+ },
+ {
+  "id": "k0085",
+  "char": "食",
+  "meaning": "eat",
+  "onyomi": "ショク",
+  "kunyomi": "た",
+  "level": "N5",
+  "grade": 2,
+  "radical": "食",
+  "compounds": [
+   "食べる(たべる)",
+   "食堂(しょくどう)"
+  ],
+  "note": "A good thing for the mouth."
+ },
+ {
+  "id": "k0086",
+  "char": "飲",
+  "meaning": "drink",
+  "onyomi": "イン",
+  "kunyomi": "の",
+  "level": "N5",
+  "grade": 2,
+  "radical": "食",
+  "compounds": [
+   "飲む(のむ)",
+   "飲料(いんりょう)"
+  ],
+  "note": "The food radical plus breath."
+ },
+ {
+  "id": "k0087",
+  "char": "見",
+  "meaning": "see",
+  "onyomi": "ケン",
+  "kunyomi": "み",
+  "level": "N5",
+  "grade": 2,
+  "radical": "見",
+  "compounds": [
+   "見る(みる)",
+   "意見(いけん)"
+  ],
+  "note": "An eye with legs: to go look."
+ },
+ {
+  "id": "k0088",
+  "char": "聞",
+  "meaning": "hear / ask",
+  "onyomi": "ブン・モン",
+  "kunyomi": "き",
+  "level": "N5",
+  "grade": 2,
+  "radical": "耳",
+  "compounds": [
+   "聞く(きく)",
+   "新聞(しんぶん)"
+  ],
+  "note": "An ear inside a gate."
+ },
+ {
+  "id": "k0089",
+  "char": "話",
+  "meaning": "talk",
+  "onyomi": "ワ",
+  "kunyomi": "はな",
+  "level": "N5",
+  "grade": 2,
+  "radical": "言",
+  "compounds": [
+   "話す(はなす)",
+   "会話(かいわ)"
+  ],
+  "note": "The speech radical plus tongues."
+ },
+ {
+  "id": "k0090",
+  "char": "読",
+  "meaning": "read",
+  "onyomi": "ドク",
+  "kunyomi": "よ",
+  "level": "N5",
+  "grade": 2,
+  "radical": "言",
+  "compounds": [
+   "読む(よむ)",
+   "読書(どくしょ)"
+  ],
+  "note": "Speech plus a contract: read aloud."
+ },
+ {
+  "id": "k0091",
+  "char": "書",
+  "meaning": "write",
+  "onyomi": "ショ",
+  "kunyomi": "か",
+  "level": "N5",
+  "grade": 2,
+  "radical": "曰",
+  "compounds": [
+   "書く(かく)",
+   "書籍(しょせき)"
+  ],
+  "note": "A brush writing on a surface."
+ },
+ {
+  "id": "k0092",
+  "char": "買",
+  "meaning": "buy",
+  "onyomi": "バイ",
+  "kunyomi": "か",
+  "level": "N5",
+  "grade": 2,
+  "radical": "貝",
+  "compounds": [
+   "買う(かう)",
+   "買い物(かいもの)"
+  ],
+  "note": "A shell (money) and a net: buy."
+ },
+ {
+  "id": "k0093",
+  "char": "売",
+  "meaning": "sell",
+  "onyomi": "バイ",
+  "kunyomi": "う",
+  "level": "N4",
+  "grade": 2,
+  "radical": "貝",
+  "compounds": [
+   "売る(うる)",
+   "販売(はんばい)"
+  ],
+  "note": "A shell and a top: sell."
+ },
+ {
+  "id": "k0094",
+  "char": "作",
+  "meaning": "make",
+  "onyomi": "サク",
+  "kunyomi": "つく",
+  "level": "N5",
+  "grade": 2,
+  "radical": "亻",
+  "compounds": [
+   "作る(つくる)",
+   "作品(さくひん)"
+  ],
+  "note": "A person making something."
+ },
+ {
+  "id": "k0095",
+  "char": "行",
+  "meaning": "go",
+  "onyomi": "コウ・ギョウ",
+  "kunyomi": "い",
+  "level": "N5",
+  "grade": 2,
+  "radical": "行",
+  "compounds": [
+   "行く(いく)",
+   "旅行(りょこう)"
+  ],
+  "note": "Crossing a street: to go."
+ },
+ {
+  "id": "k0096",
+  "char": "来",
+  "meaning": "come",
+  "onyomi": "ライ",
+  "kunyomi": "く・こ",
+  "level": "N5",
+  "grade": 2,
+  "radical": "来",
+  "compounds": [
+   "来る(くる)",
+   "将来(しょうらい)"
+  ],
+  "note": "A person coming down."
+ },
+ {
+  "id": "k0097",
+  "char": "帰",
+  "meaning": "return home",
+  "onyomi": "キ",
+  "kunyomi": "かえ",
+  "level": "N5",
+  "grade": 2,
+  "radical": "彐",
+  "compounds": [
+   "帰る(かえる)",
+   "帰国(きこく)"
+  ],
+  "note": "A sweep and a woman: return."
+ },
+ {
+  "id": "k0098",
+  "char": "寝",
+  "meaning": "sleep",
+  "onyomi": "シン",
+  "kunyomi": "ね",
+  "level": "N4",
+  "grade": 3,
+  "radical": "宀",
+  "compounds": [
+   "寝る(ねる)",
+   "寝室(しんしつ)"
+  ],
+  "note": "A roof, a curtain and a body: sleep."
+ },
+ {
+  "id": "k0099",
+  "char": "起",
+  "meaning": "get up / occur",
+  "onyomi": "キ",
+  "kunyomi": "お",
+  "level": "N4",
+  "grade": 2,
+  "radical": "走",
+  "compounds": [
+   "起きる(おきる)",
+   "発生(はっせい)"
+  ],
+  "note": "A walking figure rising."
+ },
+ {
+  "id": "k0100",
+  "char": "働",
+  "meaning": "work",
+  "onyomi": "ドウ",
+  "kunyomi": "はたら",
+  "level": "N4",
+  "grade": 2,
+  "radical": "亻",
+  "compounds": [
+   "働く(はたらく)",
+   "労働(ろうどう)"
+  ],
+  "note": "A person and a plough: work."
+ },
+ {
+  "id": "k0101",
+  "char": "強",
+  "meaning": "strong",
+  "onyomi": "キョウ",
+  "kunyomi": "つよ",
+  "level": "N4",
+  "grade": 2,
+  "radical": "弓",
+  "compounds": [
+   "強い(つよい)",
+   "勉強(べんきょう)"
+  ],
+  "note": "A strong bow."
+ },
+ {
+  "id": "k0102",
+  "char": "弱",
+  "meaning": "weak",
+  "onyomi": "ジャク",
+  "kunyomi": "よわ",
+  "level": "N4",
+  "grade": 2,
+  "radical": "弓",
+  "compounds": [
+   "弱い(よわい)",
+   "弱点(じゃくてん)"
+  ],
+  "note": "Two bows, one broken: weak."
+ },
+ {
+  "id": "k0103",
+  "char": "難",
+  "meaning": "difficult",
+  "onyomi": "ナン",
+  "kunyomi": "むずか",
+  "level": "N4",
+  "grade": 3,
+  "radical": "隹",
+  "compounds": [
+   "難しい(むずかしい)",
+   "困難(こんなん)"
+  ],
+  "note": "A hard-to-catch bird."
+ },
+ {
+  "id": "k0104",
+  "char": "易",
+  "meaning": "easy",
+  "onyomi": "エキ",
+  "kunyomi": "やさ",
+  "level": "N4",
+  "grade": 3,
+  "radical": "日",
+  "compounds": [
+   "易しい(やさしい)",
+   "容易(ようい)"
+  ],
+  "note": "A simple change of sun."
+ },
+ {
+  "id": "k0105",
+  "char": "正",
+  "meaning": "correct / proper",
+  "onyomi": "セイ",
+  "kunyomi": "ただ",
+  "level": "N4",
+  "grade": 2,
+  "radical": "止",
+  "compounds": [
+   "正しい(ただしい)",
+   "正面(しょうめん)"
+  ],
+  "note": "A straight stop: correct."
+ },
+ {
+  "id": "k0106",
+  "char": "誤",
+  "meaning": "mistake",
+  "onyomi": "ゴ",
+  "kunyomi": "あやま",
+  "level": "N3",
+  "grade": 3,
+  "radical": "言",
+  "compounds": [
+   "誤る(あやまる)",
+   "錯誤(さくご)"
+  ],
+  "note": "Speech that goes astray."
+ },
+ {
+  "id": "k0107",
+  "char": "信",
+  "meaning": "trust",
+  "onyomi": "シン",
+  "kunyomi": "",
+  "level": "N4",
+  "grade": 2,
+  "radical": "亻",
+  "compounds": [
+   "信じる(しんじる)",
+   "信用(しんよう)"
+  ],
+  "note": "A person and a word: trust."
+ },
+ {
+  "id": "k0108",
+  "char": "用",
+  "meaning": "use / business",
+  "onyomi": "ヨウ",
+  "kunyomi": "もち",
+  "level": "N4",
+  "grade": 2,
+  "radical": "用",
+  "compounds": [
+   "使う(つかう)",
+   "用途(ようと)"
+  ],
+  "note": "A useful container."
+ },
+ {
+  "id": "k0109",
+  "char": "意",
+  "meaning": "meaning / mind",
+  "onyomi": "イ",
+  "kunyomi": "",
+  "level": "N4",
+  "grade": 2,
+  "radical": "心",
+  "compounds": [
+   "意味(いみ)",
+   "意見(いけん)"
+  ],
+  "note": "A sound and a heart: intention."
+ },
+ {
+  "id": "k0110",
+  "char": "味",
+  "meaning": "taste",
+  "onyomi": "ミ",
+  "kunyomi": "あじ",
+  "level": "N4",
+  "grade": 2,
+  "radical": "口",
+  "compounds": [
+   "味(あじ)",
+   "美味しい(おいしい)"
+  ],
+  "note": "A mouth and an unmade thing: flavour."
+ },
+ {
+  "id": "k0111",
+  "char": "音",
+  "meaning": "sound",
+  "onyomi": "オン",
+  "kunyomi": "おと",
+  "level": "N4",
+  "grade": 2,
+  "radical": "音",
+  "compounds": [
+   "音(おと)",
+   "音楽(おんがく)"
+  ],
+  "note": "A sound above a gate."
+ },
+ {
+  "id": "k0112",
+  "char": "色",
+  "meaning": "colour",
+  "onyomi": "ショク",
+  "kunyomi": "いろ",
+  "level": "N4",
+  "grade": 2,
+  "radical": "色",
+  "compounds": [
+   "色(いろ)",
+   "特色(とくしょく)"
+  ],
+  "note": "A person and a knife: hue."
+ },
+ {
+  "id": "k0113",
+  "char": "形",
+  "meaning": "shape",
+  "onyomi": "ケイ",
+  "kunyomi": "かたち",
+  "level": "N4",
+  "grade": 2,
+  "radical": "彡",
+  "compounds": [
+   "形(かたち)",
+   "正方形(せいほうけい)"
+  ],
+  "note": "A well and hair strokes: form."
+ },
+ {
+  "id": "k0114",
+  "char": "数",
+  "meaning": "number",
+  "onyomi": "スウ",
+  "kunyomi": "かず",
+  "level": "N4",
+  "grade": 2,
+  "radical": "攵",
+  "compounds": [
+   "数(かず)",
+   "数字(すうじ)"
+  ],
+  "note": "A woman and a brush: count."
+ }
+]

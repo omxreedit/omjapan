@@ -1,0 +1,82 @@
+[
+ {
+  "id": "sp01",
+  "jp": "はじめまして。",
+  "kana": "はじめまして。",
+  "romaji": "Hajimemashite.",
+  "en": "Nice to meet you.",
+  "tip": "Use when meeting someone for the first time."
+ },
+ {
+  "id": "sp02",
+  "jp": "私はインド人です。",
+  "kana": "わたしはインドじんです。",
+  "romaji": "Watashi wa Indojin desu.",
+  "en": "I am Indian.",
+  "tip": "Replace インド人 with your nationality."
+ },
+ {
+  "id": "sp03",
+  "jp": "日本語を勉強しています。",
+  "kana": "にほんごをべんきょうしています。",
+  "romaji": "Nihongo o benkyou shite imasu.",
+  "en": "I am studying Japanese.",
+  "tip": "Use ています for ongoing actions."
+ },
+ {
+  "id": "sp04",
+  "jp": "少し話せます。",
+  "kana": "すこしはなせます。",
+  "romaji": "Sukoshi hanasemasu.",
+  "en": "I can speak a little.",
+  "tip": "Polite and humble; very natural."
+ },
+ {
+  "id": "sp05",
+  "jp": "もう一度お願いします。",
+  "kana": "もういちどおねがいします。",
+  "romaji": "Mou ichido onegai shimasu.",
+  "en": "One more time, please.",
+  "tip": "Use when you didn't catch something."
+ },
+ {
+  "id": "sp06",
+  "jp": "ゆっくり話してください。",
+  "kana": "ゆっくりはなしてください。",
+  "romaji": "Yukkuri hanashite kudasai.",
+  "en": "Please speak slowly.",
+  "tip": "てください = polite request."
+ },
+ {
+  "id": "sp07",
+  "jp": "この単語の意味は何ですか。",
+  "kana": "このたんごのいみはなんですか。",
+  "romaji": "Kono tango no imi wa nan desu ka.",
+  "en": "What does this word mean?",
+  "tip": "たんご = word; いみ = meaning."
+ },
+ {
+  "id": "sp08",
+  "jp": "ありがとうございます。",
+  "kana": "ありがとうございます。",
+  "romaji": "Arigatou gozaimasu.",
+  "en": "Thank you.",
+  "tip": "Use ございます for polite thanks."
+ },
+ {
+  "id": "sp09",
+  "jp": "すみません。",
+  "kana": "すみません。",
+  "romaji": "Sumimasen.",
+  "en": "Excuse me / sorry.",
+  "tip": "Also used to get attention."
+ },
+ {
+  "id": "sp10",
+  "jp": "よろしくお願いします。",
+  "kana": "よろしくおねがいします。",
+  "romaji": "Yoroshiku onegai shimasu.",
+  "en": "Please treat me well.",
+  "tip": "Standard closing for introductions."
+ }
+]

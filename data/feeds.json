@@ -1,0 +1,110 @@
+[
+  {
+    "name": "MEXT What's New (presumed RSS)",
+    "url": "https://www.mext.go.jp/en/news/rss.xml",
+    "publisher": "Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan",
+    "format": "rss",
+    "works": false,
+    "lastChecked": "2026-11-22",
+    "note": "HTTP 404. No RSS/Atom link tag found in the MEXT English or Japanese homepages; no official MEXT news feed located."
+  },
+  {
+    "name": "MEXT news feed (alternative path)",
+    "url": "https://www.mext.go.jp/b_menu/rss/mext.xml",
+    "publisher": "MEXT, Japan",
+    "format": "rss",
+    "works": false,
+    "lastChecked": "2026-11-22",
+    "note": "HTTP 404. Historical path, no longer available."
+  },
+  {
+    "name": "MEXT site feed (root path)",
+    "url": "https://www.mext.go.jp/rss/mext.xml",
+    "publisher": "MEXT, Japan",
+    "format": "rss",
+    "works": false,
+    "lastChecked": "2026-11-22",
+    "note": "HTTP 404. No valid XML returned."
+  },
+  {
+    "name": "JASSO news RSS (presumed)",
+    "url": "https://www.jasso.go.jp/rss/news.xml",
+    "publisher": "Japan Student Services Organization (JASSO)",
+    "format": "rss",
+    "works": false,
+    "lastChecked": "2026-11-22",
+    "note": "Returns HTTP 200 but the body is an HTML 404 page, not XML. No working feed."
+  },
+  {
+    "name": "JASSO RSS directory",
+    "url": "https://www.jasso.go.jp/rss/index.xml",
+    "publisher": "Japan Student Services Organization (JASSO)",
+    "format": "rss",
+    "works": false,
+    "lastChecked": "2026-11-22",
+    "note": "Returns HTML (soft 404). JASSO English news is rendered client-side with no public RSS/Atom feed found."
+  },
+  {
+    "name": "JASSO English feed",
+    "url": "https://www.jasso.go.jp/en/feed/",
+    "publisher": "Japan Student Services Organization (JASSO)",
+    "format": "rss",
+    "works": false,
+    "lastChecked": "2026-11-22",
+    "note": "Returns HTML 404 page; not a feed."
+  },
+  {
+    "name": "Study in Japan news feed",
+    "url": "https://www.studyinjapan.go.jp/en/news/feed.xml",
+    "publisher": "JASSO / Study in Japan official information site",
+    "format": "rss",
+    "works": false,
+    "lastChecked": "2026-11-22",
+    "note": "HTTP 404. The News archive at /en/news/ is HTML-only; no RSS/Atom link advertised."
+  },
+  {
+    "name": "Study in Japan site feed",
+    "url": "https://www.studyinjapan.go.jp/en/rss.xml",
+    "publisher": "JASSO / Study in Japan official information site",
+    "format": "rss",
+    "works": false,
+    "lastChecked": "2026-11-22",
+    "note": "HTTP 404. No valid XML."
+  },
+  {
+    "name": "JSPS news RSS (presumed)",
+    "url": "https://www.jsps.go.jp/english/rss.xml",
+    "publisher": "Japan Society for the Promotion of Science (JSPS)",
+    "format": "rss",
+    "works": false,
+    "lastChecked": "2026-11-22",
+    "note": "HTTP 404. JSPS What's New is rendered dynamically; no public feed found."
+  },
+  {
+    "name": "JSPS e-news feed",
+    "url": "https://www.jsps.go.jp/english/e-news/feed.xml",
+    "publisher": "Japan Society for the Promotion of Science (JSPS)",
+    "format": "atom",
+    "works": false,
+    "lastChecked": "2026-11-22",
+    "note": "HTTP 404. No Atom feed published at this path."
+  },
+  {
+    "name": "Japan Foundation English feed",
+    "url": "https://www.jpf.go.jp/e/feed.xml",
+    "publisher": "The Japan Foundation",
+    "format": "rss",
+    "works": false,
+    "lastChecked": "2026-11-22",
+    "note": "HTTP 403 from this environment; could not be confirmed as a feed and is not included as a working source."
+  },
+  {
+    "name": "MEXT B_menu feed directory",
+    "url": "https://www.mext.go.jp/b_menu/rss/news.xml",
+    "publisher": "MEXT, Japan",
+    "format": "rss",
+    "works": false,
+    "lastChecked": "2026-11-22",
+    "note": "HTTP 404. No valid feed at this path."
+  }
+]
