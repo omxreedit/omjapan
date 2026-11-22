@@ -8,7 +8,7 @@
 
 ## Reporting
 
-Please report security issues privately through GitHub's private security advisory flow for `omxreedit/omjapan`, or contact the maintainer through the channels listed in the repository README. Do not publish exploit details before a fix is available.
+Please report security issues through GitHub's private security advisory flow for `omxreedit/omjapan` if private reporting is available for this repository; otherwise contact the maintainer through the channels listed in the repository README. Do not publish exploit details before a fix is available.
 
 ## Scope and design notes
 
